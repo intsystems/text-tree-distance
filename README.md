@@ -1,0 +1,2 @@
+# A method for text tree similarity estimation using tree edit distance and language models
+In this work, a solution to the problem of comparing text trees is proposed and implemented. To solve this problem, the Zhang-Shasha algorithm is used, in which the semantic distance between texts is used as the cost of updating a node's label. BERT-like models are used to estimate the semantic similarity of text labels. Moreover, we propose several heuristics to improve the performance of the proposed algorithm.
