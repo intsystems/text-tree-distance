@@ -1,0 +1,19 @@
+{
+  "Embedding distance is used as a measure of semantic similarity.": {
+    "The language model allows to capture semantic meaning of sentences and model their similarity.": {
+      "The algorithm's novelty is in its similarity measure based on BERT-like model embeddings.": {
+        "A new algorithm for text tree edit distance based on Zhang-Shasha's algorithm and BERT-like model embedding similarity.": {
+          "The costs of insertion and removal of nodes are defined as the similarity of the node and an empty sentence.": {}
+        }
+      }
+    },
+    "Semantic similarity is used as the update cost in the algorithm.": {
+      "Zhang-Shasha's algorithm is used to compute tree edit distance with new edit costs.": {
+        "The proposed algorithm is presented as a more informative metric of similarity between text trees": {
+          "This new method can be used, for example, to compare mind maps or hierarchical summaries.": {}
+        }
+      }
+    },
+    "The current ways of comparing text trees overlook their tree structure or the meaning of their labels.": {}
+  }
+}

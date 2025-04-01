@@ -1,0 +1,16 @@
+{
+  "An enhanced text tree edit distance computation blending Zhang-Shasha's approach with contextual embedding similarities.": {
+    "The fundamental advancement is the semantic similarity evaluation using contextual embeddings.": {
+      "Meaningful relationships are assessed through vector space distances.": {},
+      "Contemporary language models facilitate deep understanding of textual semantics.": {}
+    },
+    "Traditional Zhang-Shasha operations are redefined with semantic cost functions.": {
+      "Node alteration costs derive from their semantic divergence.": {},
+      "Insertion/deletion operations are weighted against baseline empty content.": {}
+    },
+    "This framework establishes new benchmarks in text tree similarity": {
+      "Existing comparison tools are limited by ignoring either structure or meaning.": {},
+      "Valuable for examining hierarchical knowledge organization systems.": {}
+    }
+  }
+}
