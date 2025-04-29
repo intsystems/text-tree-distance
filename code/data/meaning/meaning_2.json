@@ -1,16 +1,16 @@
 {
-  "A modified algorithm for text string edit distance rejecting Zhang-Shasha's algorithm but using BERT-like model embedding similarity.": {
-    "The algorithm rejects tree structures in favor of BERT-like model embeddings.": {
-      "Embedding distance replaces any measure of structural similarity.": {},
-      "The language model alone captures semantic meaning while ignoring sentence structure.": {}
+  "A hybrid algorithm for text graph edit distance combining Zhang-Shasha's algorithm with graph neural network embeddings.": {
+    "The algorithm integrates structural and semantic similarity through a multi-modal approach.": {
+      "Graph embeddings complement BERT-like embeddings to capture both topology and meaning.": {},
+      "The model dynamically balances structural and semantic information based on context.": {}
     },
-    "Zhang-Shasha's algorithm is explicitly avoided in computing edit distance.": {
-      "Semantic similarity becomes the only cost in the algorithm.": {},
-      "Insertion and removal operations are simplified without considering empty sentences.": {}
+    "Zhang-Shasha's algorithm is extended to operate on graph representations.": {
+      "Edit costs incorporate both node-level semantic similarity and edge structural penalties.": {},
+      "Insertion and removal costs consider node centrality in addition to semantic relevance.": {}
     },
-    "The proposed algorithm dismisses tree-based similarity metrics entirely": {
-      "Current ways of comparing text trees overemphasize their structure over meaning.": {},
-      "This approach works only for flat texts, not mind maps or hierarchies.": {}
+    "The proposed algorithm bridges the gap between pure structural and pure semantic methods": {
+      "Existing approaches either oversimplify graph structure or ignore relational semantics.": {},
+      "This method enables comparison of complex knowledge graphs beyond simple trees or texts.": {}
     }
   }
 }
