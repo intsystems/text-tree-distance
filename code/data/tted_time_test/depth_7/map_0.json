@@ -1,0 +1,192 @@
+{
+  "Technology is transforming our lives.": {
+    "Artificial Intelligence is revolutionizing industries.": {
+      "Machine learning enables predictive analytics.": {
+        "Deep learning improves image recognition.": {
+          "Convolutional neural networks are widely used.": {
+            "They excel at processing grid-like data.": {
+              "Specialized for visual pattern recognition": {},
+              "Effective with spatial hierarchies": {}
+            },
+            "They reduce parameters with shared weights.": {
+              "Translation invariance improves efficiency": {},
+              "Local connectivity reduces computations": {}
+            }
+          },
+          "Transfer learning allows model reuse.": {
+            "Pre-trained models save training time.": {
+              "Leverages existing feature extractors": {},
+              "Requires less labeled data": {}
+            },
+            "Fine-tuning adapts models to new tasks.": {
+              "Last layers are typically retrained": {},
+              "Learning rates are carefully adjusted": {}
+            }
+          }
+        },
+        "Natural language processing understands human language.": {
+          "Transformer models process sequential data.": {
+            "Attention mechanisms capture long-range dependencies.": {
+              "Weights importance of different positions": {},
+              "Enables parallel processing of sequences": {}
+            },
+            "Self-supervised learning reduces labeling needs.": {
+              "Models predict masked tokens": {},
+              "Next-sentence prediction is common": {}
+            }
+          },
+          "Sentiment analysis detects emotional tone.": {
+            "It classifies text as positive or negative.": {
+              "Uses labeled datasets for training": {},
+              "Applies to product reviews effectively": {}
+            },
+            "It's used in customer feedback analysis.": {
+              "Automates response prioritization": {},
+              "Identifies emerging issues quickly": {}
+            }
+          }
+        }
+      },
+      "Robotics automates physical tasks.": {
+        "Industrial robots increase manufacturing efficiency.": {
+          "They work with high precision.": {
+            "Repeatability ensures consistent quality.": {
+              "Tolerances within micrometers": {},
+              "Critical for assembly lines": {}
+            },
+            "Vision systems guide precise movements.": {
+              "2D and 3D vision options available": {},
+              "Real-time image processing": {}
+            }
+          },
+          "Collaborative robots work alongside humans.": {
+            "They have force-limited joints for safety.": {
+              "Torque sensors detect resistance": {},
+              "Automatically stop on contact": {}
+            },
+            "They're programmed through demonstration.": {
+              "Physical guidance simplifies setup": {},
+              "No coding expertise required": {}
+            }
+          }
+        },
+        "Service robots assist in daily life.": {
+          "Domestic robots handle household chores.": {
+            "Vacuum robots clean floors autonomously.": {
+              "LIDAR navigation creates maps": {},
+              "Self-emptying models available": {}
+            },
+            "Lawn-mowing robots maintain gardens.": {
+              "Perimeter wires define work areas": {},
+              "Rain sensors pause operation": {}
+            }
+          },
+          "Medical robots assist in surgeries.": {
+            "They enable minimally invasive procedures.": {
+              "Smaller incisions reduce recovery time": {},
+              "High-definition 3D visualization": {}
+            },
+            "Surgeons control them remotely.": {
+              "Haptic feedback provides touch sensation": {},
+              "Motion scaling enhances precision": {}
+            }
+          }
+        }
+      }
+    },
+    "Renewable energy is changing power generation.": {
+      "Solar power harnesses sunlight.": {
+        "Photovoltaic cells convert light to electricity.": {
+          "Silicon panels dominate the market.": {
+            "Monocrystalline panels have high efficiency.": {
+              "Single crystal structure": {},
+              "Space-efficient for rooftops": {}
+            },
+            "Polycrystalline panels are more affordable.": {
+              "Multiple silicon fragments": {},
+              "Slightly lower efficiency": {}
+            }
+          },
+          "Thin-film technology offers flexibility.": {
+            "It uses less material than traditional panels.": {
+              "Amorphous silicon deposition": {},
+              "Cadmium telluride variants": {}
+            },
+            "It can be integrated into building materials.": {
+              "Solar roof tiles available": {},
+              "Semi-transparent windows possible": {}
+            }
+          }
+        },
+        "Solar thermal systems capture heat.": {
+          "Concentrated solar power uses mirrors.": {
+            "It generates high temperatures.": {
+              "Parabolic trough designs common": {},
+              "Power tower configurations": {}
+            },
+            "It stores energy as molten salt.": {
+              "Enables nighttime generation": {},
+              "Two-tank storage systems": {}
+            }
+          },
+          "Water heating systems are common.": {
+            "They reduce electricity consumption.": {
+              "Direct circulation systems": {},
+              "Indirect heat exchangers": {}
+            },
+            "They work well in sunny climates.": {
+              "Evacuated tube collectors efficient": {},
+              "Integrated tank systems compact": {}
+            }
+          }
+        }
+      },
+      "Wind energy utilizes air currents.": {
+        "Onshore wind farms are cost-effective.": {
+          "They're easier to install and maintain.": {
+            "Access to grid infrastructure is simpler.": {
+              "Shorter transmission lines": {},
+              "Existing road access helps": {}
+            },
+            "Land-based turbines have lower costs.": {
+              "No marine construction needed": {},
+              "Standard foundation designs": {}
+            }
+          },
+          "They face fewer regulatory hurdles.": {
+            "Permitting processes are more straightforward.": {
+              "Environmental studies simpler": {},
+              "Zoning approvals faster": {}
+            },
+            "Community acceptance varies by location.": {
+              "Noise concerns sometimes raised": {},
+              "Property value debates occur": {}
+            }
+          }
+        },
+        "Offshore wind farms harness stronger winds.": {
+          "Floating turbines access deep waters.": {
+            "They don't require seabed mounting.": {
+              "Mooring lines provide stability": {},
+              "Suitable for continental shelves": {}
+            },
+            "They can be placed further offshore.": {
+              "Access stronger, steadier winds": {},
+              "Reduce visual impact": {}
+            }
+          },
+          "They have higher capacity factors.": {
+            "Consistent winds increase output.": {
+              "Less turbulent flow offshore": {},
+              "Higher average wind speeds": {}
+            },
+            "Larger turbine sizes are possible.": {
+              "No transport size limitations": {},
+              "Bigger rotors capture more energy": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

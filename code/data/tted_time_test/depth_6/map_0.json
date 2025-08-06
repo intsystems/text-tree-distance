@@ -1,0 +1,96 @@
+{
+  "Technology is transforming our lives.": {
+    "Artificial Intelligence is revolutionizing industries.": {
+      "Machine learning enables predictive analytics.": {
+        "Deep learning improves image recognition.": {
+          "Convolutional neural networks are widely used.": {
+            "They excel at processing grid-like data.": {},
+            "They reduce parameters with shared weights.": {}
+          },
+          "Transfer learning allows model reuse.": {
+            "Pre-trained models save training time.": {},
+            "Fine-tuning adapts models to new tasks.": {}
+          }
+        },
+        "Natural language processing understands human language.": {
+          "Transformer models process sequential data.": {
+            "Attention mechanisms capture long-range dependencies.": {},
+            "Self-supervised learning reduces labeling needs.": {}
+          },
+          "Sentiment analysis detects emotional tone.": {
+            "It classifies text as positive or negative.": {},
+            "It's used in customer feedback analysis.": {}
+          }
+        }
+      },
+      "Robotics automates physical tasks.": {
+        "Industrial robots increase manufacturing efficiency.": {
+          "They work with high precision.": {
+            "Repeatability ensures consistent quality.": {},
+            "Vision systems guide precise movements.": {}
+          },
+          "Collaborative robots work alongside humans.": {
+            "They have force-limited joints for safety.": {},
+            "They're programmed through demonstration.": {}
+          }
+        },
+        "Service robots assist in daily life.": {
+          "Domestic robots handle household chores.": {
+            "Vacuum robots clean floors autonomously.": {},
+            "Lawn-mowing robots maintain gardens.": {}
+          },
+          "Medical robots assist in surgeries.": {
+            "They enable minimally invasive procedures.": {},
+            "Surgeons control them remotely.": {}
+          }
+        }
+      }
+    },
+    "Renewable energy is changing power generation.": {
+      "Solar power harnesses sunlight.": {
+        "Photovoltaic cells convert light to electricity.": {
+          "Silicon panels dominate the market.": {
+            "Monocrystalline panels have high efficiency.": {},
+            "Polycrystalline panels are more affordable.": {}
+          },
+          "Thin-film technology offers flexibility.": {
+            "It uses less material than traditional panels.": {},
+            "It can be integrated into building materials.": {}
+          }
+        },
+        "Solar thermal systems capture heat.": {
+          "Concentrated solar power uses mirrors.": {
+            "It generates high temperatures.": {},
+            "It stores energy as molten salt.": {}
+          },
+          "Water heating systems are common.": {
+            "They reduce electricity consumption.": {},
+            "They work well in sunny climates.": {}
+          }
+        }
+      },
+      "Wind energy utilizes air currents.": {
+        "Onshore wind farms are cost-effective.": {
+          "They're easier to install and maintain.": {
+            "Access to grid infrastructure is simpler.": {},
+            "Land-based turbines have lower costs.": {}
+          },
+          "They face fewer regulatory hurdles.": {
+            "Permitting processes are more straightforward.": {},
+            "Community acceptance varies by location.": {}
+          }
+        },
+        "Offshore wind farms harness stronger winds.": {
+          "Floating turbines access deep waters.": {
+            "They don't require seabed mounting.": {},
+            "They can be placed further offshore.": {}
+          },
+          "They have higher capacity factors.": {
+            "Consistent winds increase output.": {},
+            "Larger turbine sizes are possible.": {}
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Understanding human behavior is complex.": {
+    "Cognitive processes shape our perception.": {
+      "Memory stores and retrieves information.": {
+        "Short-term memory has limited capacity.": {
+          "The magic number is 7±2 items.": {},
+          "Working memory manipulates information.": {}
+        },
+        "Long-term memory has vast storage.": {
+          "Explicit memory stores facts and events.": {},
+          "Implicit memory includes skills.": {}
+        }
+      },
+      "Attention filters sensory input.": {
+        "Selective attention focuses on targets.": {
+          "Cocktail party effect isolates voices.": {},
+          "Inattentional blindness misses obvious things.": {}
+        },
+        "Divided attention handles multiple tasks.": {
+          "Multitasking reduces efficiency.": {},
+          "Automatic processes require less attention.": {}
+        }
+      }
+    },
+    "Emotional intelligence affects relationships.": {
+      "Self-awareness recognizes personal emotions.": {
+        "Emotional self-perception is foundational.": {
+          "Identifying feelings prevents overwhelm.": {},
+          "Understanding triggers improves control.": {}
+        },
+        "Accurate self-assessment guides growth.": {
+          "Recognizing strengths builds confidence.": {},
+          "Acknowledging limitations prevents overreach.": {}
+        }
+      },
+      "Social skills manage interactions.": {
+        "Verbal communication conveys messages.": {
+          "Active listening builds understanding.": {},
+          "Clear expression prevents misunderstandings.": {}
+        },
+        "Conflict resolution maintains harmony.": {
+          "Finding common ground is essential.": {},
+          "Emotional regulation prevents escalation.": {}
+        }
+      }
+    }
+  }
+}

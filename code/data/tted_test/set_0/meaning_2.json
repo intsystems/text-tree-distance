@@ -1,0 +1,16 @@
+{
+  "Interactive visualization is presented as an innovative solution to improve data representation for complex systems.": {
+    "VisuaLink, the first interactive visualization software, organizes data into a navigable structure for user engagement.": {
+      "The software clusters elements visually and optimizes for clarity, overlap, and consistency.": {},
+      "Users can zoom from general patterns to detailed visualizations on selected aspects.": {}
+    },
+    "User tests demonstrate a significant liking for interactive visualization over static charts and linear diagrams.": {
+      "Interactive visualization was favored nine times more than static charts and five times more than linear diagrams.": {},
+      "Users extracted more insights from interactive visualization in 75% more scenarios compared to linear diagrams.": {}
+    },
+    "The paper defines interactive visualization and sketches future directions for responsive design principles and scaling.": {
+      "Later work will involve dynamically adjusting design principles like color, scale, or animation.": {},
+      "The target is to expand the software to more complex systems and explore additional formats.": {}
+    }
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "Nature maintains delicate balances.": {
+    "Food webs connect organisms.": {
+      "Producers form the base.": {
+        "Plants convert sunlight to energy.": {
+          "Photosynthesis requires chlorophyll.": {
+            "Light reactions capture energy.": {
+              "Photosystems absorb photons": {},
+              "ATP and NADPH produced": {}
+            },
+            "Calvin cycle fixes carbon.": {
+              "RuBisCO enzyme critical": {},
+              "G3P sugar produced": {}
+            }
+          },
+          "Primary productivity varies by ecosystem.": {
+            "Tropical forests have high rates.": {
+              "Year-round growing season": {},
+              "Abundant rainfall": {}
+            },
+            "Deserts have limited production.": {
+              "Water scarcity limiting": {},
+              "CAM photosynthesis adaptation": {}
+            }
+          }
+        },
+        "Algae sustain aquatic systems.": {
+          "Phytoplankton drift with currents.": {
+            "They produce half Earth's oxygen.": {
+              "Diatoms significant contributors": {},
+              "Prochlorococcus abundant": {}
+            },
+            "Blooms can be harmful.": {
+              "Red tides toxic": {},
+              "Eutrophication causes": {}
+            }
+          },
+          "Kelp forests create underwater habitats.": {
+            "They grow rapidly in cold waters.": {
+              "Giant kelp fastest growth": {},
+              "Require nutrient upwelling": {}
+            },
+            "They shelter diverse marine life.": {
+              "Nursery for juvenile fish": {},
+              "Sea otters maintain balance": {}
+            }
+          }
+        }
+      },
+      "Consumers occupy higher levels.": {
+        "Herbivores eat plants directly.": {
+          "Ruminants have specialized digestion.": {
+            "Multiple stomachs break down cellulose.": {
+              "Rumen fermentation chamber": {},
+              "Microbial symbionts essential": {}
+            },
+            "Symbiotic bacteria aid digestion.": {
+              "Produce cellulase enzymes": {},
+              "Vitamin synthesis occurs": {}
+            }
+          },
+          "Insect herbivores have co-evolved.": {
+            "Some plants developed defenses.": {
+              "Tannins deter feeding": {},
+              "Thorns physical barriers": {}
+            },
+            "Monarch butterflies store toxins.": {
+              "Milkweed-derived cardenolides": {},
+              "Warning coloration results": {}
+            }
+          }
+        },
+        "Carnivores hunt other animals.": {
+          "Apex predators regulate populations.": {
+            "Wolves maintain ecosystem health.": {
+              "Trophic cascades documented": {},
+              "Yellowstone reintroduction effects": {}
+            },
+            "Their removal causes trophic cascades.": {
+              "Mesopredator release occurs": {},
+              "Vegetation patterns change": {}
+            }
+          },
+          "Scavengers clean up carcasses.": {
+            "Vultures have strong stomach acid.": {
+              "Kills pathogens in carrion": {},
+              "pH near 1.0": {}
+            },
+            "They prevent disease spread.": {
+              "Rapid consumption key": {},
+              "Anthrax neutralization": {}
+            }
+          }
+        }
+      }
+    },
+    "Nutrient cycles sustain life.": {
+      "Carbon cycle regulates climate.": {
+        "Photosynthesis removes CO2.": {
+          "Forests act as carbon sinks.": {
+            "Old-growth stores more carbon.": {
+              "Centuries of accumulation": {},
+              "Soils hold significant amounts": {}
+            },
+            "Deforestation releases stored carbon.": {
+              "Burning immediate release": {},
+              "Decomposition continues": {}
+            }
+          },
+          "Oceans absorb atmospheric carbon.": {
+            "Phytoplankton incorporate carbon.": {
+              "Biological pump mechanism": {},
+              "Carbonate shells form": {}
+            },
+            "Acidification threatens marine life.": {
+              "Lower pH dissolves shells": {},
+              "Coral bleaching increases": {}
+            }
+          }
+        },
+        "Respiration releases CO2.": {
+          "All living organisms respire.": {
+            "Metabolism breaks down sugars.": {
+              "Mitochondria power cells": {},
+              "Krebs cycle central": {}
+            },
+            "Energy is released as ATP.": {
+              "Oxidative phosphorylation": {},
+              "Electron transport chain": {}
+            }
+          },
+          "Combustion of fuels accelerates cycle.": {
+            "Fossil fuels release ancient carbon.": {
+              "Millions of years stored": {},
+              "Net addition to atmosphere": {}
+            },
+            "This exceeds natural absorption rates.": {
+              "Deforestation compounds issue": {},
+              "Ocean saturation concerns": {}
+            }
+          }
+        }
+      },
+      "Nitrogen cycle supports growth.": {
+        "Nitrogen fixation makes N usable.": {
+          "Legumes host rhizobium bacteria.": {
+            "Root nodules contain bacteria.": {
+              "Mutualistic relationship": {},
+              "Oxygen control critical": {}
+            },
+            "Crop rotation replenishes soil.": {
+              "Traditional farming practice": {},
+              "Clover common choice": {}
+            }
+          },
+          "Industrial fixation produces fertilizer.": {
+            "Haber-Bosch process is energy-intensive.": {
+              "High pressure required": {},
+              "Natural gas feedstock": {}
+            },
+            "Overuse causes water pollution.": {
+              "Algal blooms result": {},
+              "Dead zones form": {}
+            }
+          }
+        },
+        "Denitrification returns N to air.": {
+          "Anaerobic bacteria complete cycle.": {
+            "Wetlands are important sites.": {
+              "Low oxygen conditions": {},
+              "Nitrate conversion": {}
+            },
+            "They convert nitrates to N2 gas.": {
+              "Pseudomonas bacteria key": {},
+              "Stepwise reduction process": {}
+            }
+          },
+          "It balances fixation processes.": {
+            "Prevents excessive accumulation.": {
+              "Nitrate toxicity avoided": {},
+              "Ecosystem equilibrium": {}
+            },
+            "Maintains atmospheric composition.": {
+              "Nitrogen majority component": {},
+              "Stable gas cycle": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

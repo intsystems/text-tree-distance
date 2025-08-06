@@ -1,0 +1,24 @@
+{
+  "Nature maintains delicate balances.": {
+    "Food webs connect organisms.": {
+      "Producers form the base.": {
+        "Plants convert sunlight to energy.": {},
+        "Algae sustain aquatic systems.": {}
+      },
+      "Consumers occupy higher levels.": {
+        "Herbivores eat plants directly.": {},
+        "Carnivores hunt other animals.": {}
+      }
+    },
+    "Nutrient cycles sustain life.": {
+      "Carbon cycle regulates climate.": {
+        "Photosynthesis removes CO2.": {},
+        "Respiration releases CO2.": {}
+      },
+      "Nitrogen cycle supports growth.": {
+        "Nitrogen fixation makes N usable.": {},
+        "Denitrification returns N to air.": {}
+      }
+    }
+  }
+}

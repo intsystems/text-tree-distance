@@ -1,0 +1,18 @@
+{
+  "User evaluations show a strong preference for hierarchical summaries over traditional flat summaries and timelines.": {
+    "Hierarchical summaries were preferred ten times more than flat summaries and three times more than timelines.": {
+      "Hierarchical summarization is introduced as a novel approach to scale multi-document summarization for large document collections.": {
+        "Summa, the first hierarchical summarization system, organizes summaries into a coherent hierarchy allowing user navigation.": {
+          "The system clusters sentences temporally and optimizes for salience, redundancy, and coherence.": {},
+          "Users can drill down from general overviews to detailed summaries on topics of interest.": {}
+        }
+      }
+    },
+    "Users learned more from hierarchical summaries in twice as many cases compared to timelines.": {
+      "The paper formalizes hierarchical summarization and outlines future directions for dynamic organizing principles and scaling.": {
+        "Future work includes dynamically selecting organizing principles like entity, location, or event.": {},
+        "The goal is to scale the system to even larger document collections and explore other domains.": {}
+      }
+    }
+  }
+}

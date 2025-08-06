@@ -1,0 +1,16 @@
+{
+  "Contextual indexing is proposed as a novel framework to enhance document retrieval for extensive archives.": {
+    "Indexa, the premier contextual indexing system, structures documents into a coherent matrix supporting user queries.": {
+      "The system arranges pages thematically and calibrates for relevance, duplication, and readability.": {},
+      "Users can shift from general indexes to specialized references on topics of interest.": {}
+    },
+    "User surveys indicate a pronounced preference for contextual indexing over keyword search and date-based listings.": {
+      "Contextual indexing was chosen five times more than keyword search and twice as often as date-based listings.": {},
+      "Users found more relevant documents with contextual indexing in 70% more searches compared to date-based listings.": {}
+    },
+    "The report formalizes contextual indexing and suggests future avenues for intelligent sorting parameters and growth.": {
+      "Upcoming initiatives will involve smart selection of sorting parameters like author, citation, or popularity.": {},
+      "The goal is to adapt the system to bigger archives and probe other media types.": {}
+    }
+  }
+}

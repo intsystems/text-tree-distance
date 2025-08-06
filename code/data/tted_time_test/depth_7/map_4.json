@@ -1,0 +1,192 @@
+{
+  "Storytelling captivates human imagination.": {
+    "Plot structures organize narratives.": {
+      "Three-act structure provides framework.": {
+        "Setup introduces characters and world.": {
+          "Inciting incident disrupts status quo.": {
+            "Creates narrative questions.": {
+              "Hook engages reader immediately": {},
+              "Disruption should be significant": {}
+            },
+            "Establishes protagonist's goal.": {
+              "Clear motivation needed": {},
+              "Stakes must matter": {}
+            }
+          },
+          "First turning point commits protagonist.": {
+            "Point of no return.": {
+              "Decision forces action": {},
+              "No going back possible": {}
+            },
+            "Changes story direction.": {
+              "New context introduced": {},
+              "True journey begins": {}
+            }
+          }
+        },
+        "Confrontation develops conflict.": {
+          "Rising action increases tension.": {
+            "Obstacles test protagonist.": {
+              "Each challenge meaningful": {},
+              "Reveals character traits": {}
+            },
+            "Stakes escalate progressively.": {
+              "Personal then universal": {},
+              "Failure consequences worsen": {}
+            }
+          },
+          "Midpoint changes context.": {
+            "Reveals new information.": {
+              "Game-changing realization": {},
+              "False victory or defeat": {}
+            },
+            "Shifts character dynamics.": {
+              "Alliances may reform": {},
+              "Motivations clarified": {}
+            }
+          }
+        }
+      },
+      "Hero's journey follows mythic patterns.": {
+        "Ordinary world establishes baseline.": {
+          "Hero starts in familiar setting.": {
+            "Shows pre-adventure life.": {
+              "Flaws and limitations visible": {},
+              "Establishes normal routines": {}
+            },
+            "Highlights latent potential.": {
+              "Untapped abilities hinted": {},
+              "Future greatness foreshadowed": {}
+            }
+          },
+          "Call to adventure disrupts.": {
+            "Refusal shows reluctance.": {
+              "Fear of change evident": {},
+              "Excuses made initially": {}
+            },
+            "Mentor provides guidance.": {
+              "Wisdom and tools given": {},
+              "Often meets untimely end": {}
+            }
+          }
+        },
+        "Special world transforms hero.": {
+          "Trials build skills.": {
+            "Allies and enemies emerge.": {
+              "Tests reveal true nature": {},
+              "Friendships forged": {}
+            },
+            "Approach to ordeal prepares.": {
+              "Final preparations made": {},
+              "Inner resolve strengthened": {}
+            }
+          },
+          "Reward follows crisis.": {
+            "Seizing the sword.": {
+              "Literal or metaphorical": {},
+              "Hard-won achievement": {}
+            },
+            "Temporary victory.": {
+              "False sense of completion": {},
+              "Greatest challenge remains": {}
+            }
+          }
+        }
+      }
+    },
+    "Character development creates depth.": {
+      "Arcs show transformation.": {
+        "Positive change follows growth.": {
+          "Flaws are overcome.": {
+            "Fear becomes courage.": {
+              "Facing ultimate test": {},
+              "Self-sacrifice moment": {}
+            },
+            "Selfishness turns to sacrifice.": {
+              "Putting others first": {},
+              "Complete perspective shift": {}
+            }
+          },
+          "New perspective is earned.": {
+            "Worldview expands.": {
+              "Greater understanding achieved": {},
+              "Prejudices overcome": {}
+            },
+            "Misconceptions corrected.": {
+              "Truth revealed painfully": {},
+              "Accepting hard realities": {}
+            }
+          }
+        },
+        "Negative change reveals tragedy.": {
+          "Flaws worsen over time.": {
+            "Pride leads to downfall.": {
+              "Hubris blinds character": {},
+              "Refusing help fatal": {}
+            },
+            "Paranoia destroys relationships.": {
+              "Trust completely eroded": {},
+              "Isolation self-inflicted": {}
+            }
+          },
+          "Opportunities for redemption missed.": {
+            "Moments of choice passed.": {
+              "Turning points ignored": {},
+              "Mercy rejected": {}
+            },
+            "Isolation becomes complete.": {
+              "Alone in consequences": {},
+              "No way back remains": {}
+            }
+          }
+        }
+      },
+      "Motivations drive actions.": {
+        "External goals provide direction.": {
+          "Tangible objectives pursued.": {
+            "Wealth or power sought.": {
+              "Initial superficial desires": {},
+              "Often prove hollow": {}
+            },
+            "Rescue missions undertaken.": {
+              "Save loved ones": {},
+              "Retrieve vital objects": {}
+            }
+          },
+          "Obstacles create conflict.": {
+            "Antagonists oppose.": {
+              "Direct confrontation": {},
+              "Philosophical opposition": {}
+            },
+            "Resources are scarce.": {
+              "Time pressure added": {},
+              "Physical limitations": {}
+            }
+          }
+        },
+        "Internal needs shape personality.": {
+          "Psychological wounds healed.": {
+            "Acceptance replaces denial.": {
+              "Facing painful truths": {},
+              "Letting go of past": {}
+            },
+            "Love overcomes fear.": {
+              "Vulnerability embraced": {},
+              "Connection triumphs": {}
+            }
+          },
+          "Core beliefs are challenged.": {
+            "Values are tested.": {
+              "Moral dilemmas faced": {},
+              "Lines crossed or held": {}
+            },
+            "Identity is questioned.": {
+              "Who am I really?": {},
+              "Rebuilding self-concept": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "Civilizations rise and fall through time.": {
+    "Ancient empires laid foundations.": {
+      "Egypt built monumental architecture.": {
+        "Pyramids served as royal tombs.": {
+          "Great Pyramid of Giza is iconic.": {
+            "It aligned with celestial bodies.": {
+              "Shafts point to significant stars": {},
+              "Cardinal orientation precise": {}
+            },
+            "Construction methods remain debated.": {
+              "Ramp theories predominate": {},
+              "Internal spiral ramp hypothesis": {}
+            }
+          },
+          "Valley of the Kings held pharaohs.": {
+            "Tutankhamun's tomb was found intact.": {
+              "Howard Carter's 1922 discovery": {},
+              "Treasures revealed craftsmanship": {}
+            },
+            "Hieroglyphs decorated the walls.": {
+              "Book of the Dead spells": {},
+              "Funerary rituals depicted": {}
+            }
+          }
+        },
+        "Hieroglyphic writing recorded history.": {
+          "Rosetta Stone enabled decipherment.": {
+            "It contained parallel texts.": {
+              "Greek and Egyptian scripts": {},
+              "Demotic script intermediate": {}
+            },
+            "Discovered by Napoleon's troops.": {
+              "1799 in Rashid (Rosetta)": {},
+              "Key to Egyptology": {}
+            }
+          },
+          "Scribes held privileged positions.": {
+            "They underwent years of training.": {
+              "Started education young": {},
+              "Memorized hundreds of signs": {}
+            },
+            "They managed administrative records.": {
+              "Tax collection documented": {},
+              "Temple inventories kept": {}
+            }
+          }
+        }
+      },
+      "Rome created lasting institutions.": {
+        "Republican government influenced democracies.": {
+          "Senate represented aristocratic interests.": {
+            "Cursus honorum defined political career.": {
+              "Sequential offices of state": {},
+              "Minimum age requirements": {}
+            },
+            "Checks and balances prevented tyranny.": {
+              "Two consuls shared power": {},
+              "Tribunes protected plebeians": {}
+            }
+          },
+          "Twelve Tables established legal principles.": {
+            "Laws were publicly displayed.": {
+              "Forum location central": {},
+              "Accessible to citizens": {}
+            },
+            "They protected plebeian rights.": {
+              "Debt slavery restrictions": {},
+              "Property rights defined": {}
+            }
+          }
+        },
+        "Roman engineering improved infrastructure.": {
+          "Aqueducts delivered clean water.": {
+            "Gravity flow required precise gradients.": {
+              "0.5% slope typical": {},
+              "Surveying tools advanced": {}
+            },
+            "Some remain in use today.": {
+              "Segovia aqueduct functional": {},
+              "Pont du Gard preserved": {}
+            }
+          },
+          "Road network connected the empire.": {
+            "Appian Way was strategically vital.": {
+              "Military supply route": {},
+              "First major Roman road": {}
+            },
+            "Standard construction enabled fast travel.": {
+              "Layered foundation technique": {},
+              "Curved surface for drainage": {}
+            }
+          }
+        }
+      }
+    },
+    "Modern nations emerged from revolutions.": {
+      "Industrial Revolution transformed economies.": {
+        "Mechanization increased productivity.": {
+          "Textile industry was first to mechanize.": {
+            "Spinning jenny multiplied output.": {
+              "James Hargreaves invention": {},
+              "Eight spindles simultaneously": {}
+            },
+            "Power looms replaced hand weaving.": {
+              "Edmund Cartwright's design": {},
+              "Luddites protested automation": {}
+            }
+          },
+          "Steam power enabled factories.": {
+            "Watt's engine improved efficiency.": {
+              "Separate condenser key": {},
+              "Rotary motion adaptation": {}
+            },
+            "Coal mining expanded dramatically.": {
+              "Deeper shafts possible": {},
+              "Steam pumps removed water": {}
+            }
+          }
+        },
+        "Urbanization changed social structures.": {
+          "Cities grew around industrial centers.": {
+            "Manchester exemplified industrial growth.": {
+              "Cottonopolis nickname": {},
+              "Population explosion": {}
+            },
+            "Overcrowding created slums.": {
+              "Back-to-back housing": {},
+              "Cholera outbreaks common": {}
+            }
+          },
+          "New social classes emerged.": {
+            "Industrial bourgeoisie gained wealth.": {
+              "Factory owners prospered": {},
+              "New political influence": {}
+            },
+            "Proletariat sold labor for wages.": {
+              "Harsh working conditions": {},
+              "Formation of unions": {}
+            }
+          }
+        }
+      },
+      "Democratic ideals spread globally.": {
+        "American Revolution rejected monarchy.": {
+          "Declaration asserted natural rights.": {
+            "Life, liberty, pursuit of happiness.": {
+              "Lockean influences clear": {},
+              "Jefferson's phrasing": {}
+            },
+            "Influenced by Enlightenment thinkers.": {
+              "John Locke's theories": {},
+              "Montesquieu's separation of powers": {}
+            }
+          },
+          "Constitutional government was established.": {
+            "Federal system divided powers.": {
+              "States retain certain rights": {},
+              "Checks and balances system": {}
+            },
+            "Bill of Rights protected freedoms.": {
+              "First ten amendments": {},
+              "Anti-Federalist compromise": {}
+            }
+          }
+        },
+        "French Revolution inspired reforms.": {
+          "Liberté, égalité, fraternité became ideals.": {
+            "Estates General transformed.": {
+              "Third Estate declaration": {},
+              "National Assembly formed": {}
+            },
+            "Feudal privileges were abolished.": {
+              "August Decrees 1789": {},
+              "Church lands nationalized": {}
+            }
+          },
+          "Napoleonic Code standardized laws.": {
+            "It spread through conquests.": {
+              "Influenced European legal systems": {},
+              "Louisiana adoption": {}
+            },
+            "Emphasized clear, accessible laws.": {
+              "Replaced patchwork customs": {},
+              "Property rights central": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

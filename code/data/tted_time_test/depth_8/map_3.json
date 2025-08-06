@@ -1,0 +1,384 @@
+{
+  "Understanding human behavior is complex.": {
+    "Cognitive processes shape our perception.": {
+      "Memory stores and retrieves information.": {
+        "Short-term memory has limited capacity.": {
+          "The magic number is 7±2 items.": {
+            "Chunking improves retention.": {
+              "Groups related information together": {
+                "Categories create meaningful units": {},
+                "Hierarchical organization helps": {}
+              },
+              "Phone numbers are chunked examples": {
+                "Area codes form first chunk": {},
+                "Remaining digits grouped": {}
+              }
+            },
+            "Rehearsal maintains information.": {
+              "Verbal repetition extends duration": {
+                "Articulatory loop involved": {},
+                "Prevents fading of memory": {}
+              },
+              "Prevents decay of memory traces": {
+                "Neural connections strengthen": {},
+                "Without rehearsal, info lost": {}
+              }
+            }
+          },
+          "Working memory manipulates information.": {
+            "It's crucial for problem-solving.": {
+              "Holds intermediate calculations": {
+                "Mental math relies on this": {},
+                "Step-by-step reasoning": {}
+              },
+              "Integrates new and stored info": {
+                "Combines perception and memory": {},
+                "Basis for decision making": {}
+              }
+            },
+            "It involves the prefrontal cortex.": {
+              "Executive functions localized here": {
+                "Planning and organization": {},
+                "Inhibition of responses": {}
+              },
+              "Damage impairs mental flexibility": {
+                "Perseveration occurs": {},
+                "Difficulty adapting": {}
+              }
+            }
+          }
+        },
+        "Long-term memory has vast storage.": {
+          "Explicit memory stores facts and events.": {
+            "Hippocampus is key for formation.": {
+              "Consolidates short to long-term": {
+                "Sleep enhances process": {},
+                "Repeated activation helps": {}
+              },
+              "Damage causes anterograde amnesia": {
+                "H.M. case famous example": {},
+                "Cannot form new memories": {}
+              }
+            },
+            "Semantic memory holds general knowledge.": {
+              "Network of associated concepts": {
+                "Spreading activation model": {},
+                "Priming effects demonstrate": {}
+              },
+              "Independent of personal context": {
+                "Universal facts stored": {},
+                "Not tied to specific events": {}
+              }
+            }
+          },
+          "Implicit memory includes skills.": {
+            "Procedural memory automates actions.": {
+              "Riding a bike remains intact": {
+                "Muscle memory persists": {},
+                "Little conscious effort": {}
+              },
+              "Basal ganglia plays key role": {
+                "Motor patterns encoded": {},
+                "Procedural learning": {}
+              }
+            },
+            "It's resistant to forgetting.": {
+              "Survives most forms of amnesia": {
+                "Skills preserved": {},
+                "Can't recall learning": {}
+              },
+              "Practice makes performance automatic": {
+                "Reduces cognitive load": {},
+                "Faster execution": {}
+              }
+            }
+          }
+        }
+      },
+      "Attention filters sensory input.": {
+        "Selective attention focuses on targets.": {
+          "Cocktail party effect isolates voices.": {
+            "Brain filters irrelevant stimuli.": {
+              "Dichotic listening experiments": {
+                "Shadowing technique used": {},
+                "Unattended ear ignored": {}
+              },
+              "Early selection theory": {
+                "Filter at sensory level": {},
+                "Broadbent's model": {}
+              }
+            },
+            "Unexpected stimuli can break through.": {
+              "Own-name effect demonstrates this": {
+                "High personal relevance": {},
+                "Attention captured": {}
+              },
+              "High-priority signals get through": {
+                "Threat-related words": {},
+                "Biological significance": {}
+              }
+            }
+          },
+          "Inattentional blindness misses obvious things.": {
+            "Focused attention creates blind spots.": {
+              "Gorilla video experiment famous": {
+                "Counting passes task": {},
+                "Unexpected event missed": {}
+              },
+              "Cell phone use while driving": {
+                "Conversation distracts": {},
+                "Visual field narrows": {}
+              }
+            },
+            "It explains many accidents.": {
+              "Missed stop signs common": {
+                "Distracted drivers": {},
+                "Change blindness": {}
+              },
+              "Pedestrians sometimes unseen": {
+                "Low expectancy": {},
+                "Focus elsewhere": {}
+              }
+            }
+          }
+        },
+        "Divided attention handles multiple tasks.": {
+          "Multitasking reduces efficiency.": {
+            "Task-switching has cognitive costs.": {
+              "Attention residue remains": {
+                "Previous task lingers": {},
+                "Reduces focus": {}
+              },
+              "Time lost in transitions": {
+                "Switch costs measurable": {},
+                "Context reestablishment": {}
+              }
+            },
+            "Performance degrades with complexity.": {
+              "Dual-task interference measurable": {
+                "Resource competition": {},
+                "Bottleneck theory": {}
+              },
+              "Practice can reduce but not eliminate": {
+                "Automaticity helps": {},
+                "Still costs remain": {}
+              }
+            }
+          },
+          "Automatic processes require less attention.": {
+            "Well-practiced skills become automatic.": {
+              "Driving familiar routes": {
+                "Procedural memory": {},
+                "Minimal awareness": {}
+              },
+              "Touch typing examples": {
+                "Motor programs": {},
+                "No visual guidance": {}
+              }
+            },
+            "They free up cognitive resources.": {
+              "Enable higher-level thinking": {
+                "Creative work benefits": {},
+                "Complex planning": {}
+              },
+              "Parallel processing possible": {
+                "Multiple streams": {},
+                "Increased capacity": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "Emotional intelligence affects relationships.": {
+      "Self-awareness recognizes personal emotions.": {
+        "Emotional self-perception is foundational.": {
+          "Identifying feelings prevents overwhelm.": {
+            "Journaling enhances awareness.": {
+              "Creates emotional vocabulary": {
+                "Nuanced descriptors": {},
+                "Precision in labeling": {}
+              },
+              "Identifies patterns over time": {
+                "Trends emerge": {},
+                "Contextual triggers": {}
+              }
+            },
+            "Mindfulness practices help.": {
+              "Non-judgmental observation": {
+                "Detached awareness": {},
+                "Reduces reactivity": {}
+              },
+              "Present-moment focus": {
+                "Anchoring techniques": {},
+                "Breath awareness": {}
+              }
+            }
+          },
+          "Understanding triggers improves control.": {
+            "Pattern recognition is key.": {
+              "Tracking emotional responses": {
+                "Mood charts": {},
+                "Incident logs": {}
+              },
+              "Identifying common situations": {
+                "Specific contexts": {},
+                "Recurring interactions": {}
+              }
+            },
+            "Childhood experiences shape reactions.": {
+              "Attachment styles influence": {
+                "Secure vs insecure": {},
+                "Working models": {}
+              },
+              "Learned coping mechanisms": {
+                "Adaptive or maladaptive": {},
+                "Early survival strategies": {}
+              }
+            }
+          }
+        },
+        "Accurate self-assessment guides growth.": {
+          "Recognizing strengths builds confidence.": {
+            "It enables effective self-promotion.": {
+              "Realistic in job interviews": {
+                "Balanced presentation": {},
+                "Evidence-based claims": {}
+              },
+              "Helps in team contributions": {
+                "Right roles chosen": {},
+                "Value recognized": {}
+              }
+            },
+            "It helps in choosing suitable roles.": {
+              "Matches skills to tasks": {
+                "Optimal performance": {},
+                "Flow states": {}
+              },
+              "Avoids overcommitment": {
+                "Realistic promises": {},
+                "Manageable workload": {}
+              }
+            }
+          },
+          "Acknowledging limitations prevents overreach.": {
+            "It allows seeking help when needed.": {
+              "Delegation becomes easier": {
+                "Trust in others": {},
+                "Efficiency improves": {}
+              },
+              "Collaboration improves": {
+                "Complementary skills": {},
+                "Synergy created": {}
+              }
+            },
+            "It fosters realistic expectations.": {
+              "Reduces perfectionism": {
+                "Self-compassion": {},
+                "Healthy standards": {}
+              },
+              "Prevents burnout": {
+                "Sustainable pace": {},
+                "Self-care prioritized": {}
+              }
+            }
+          }
+        }
+      },
+      "Social skills manage interactions.": {
+        "Verbal communication conveys messages.": {
+          "Active listening builds understanding.": {
+            "Paraphrasing confirms comprehension.": {
+              "Restates in own words": {
+                "Demonstrates attention": {},
+                "Clarifies meaning": {}
+              },
+              "Checks for accuracy": {
+                "Verification step": {},
+                "Corrects misunderstandings": {}
+              }
+            },
+            "Nonverbal cues provide context.": {
+              "Eye contact shows engagement": {
+                "Cultural variations": {},
+                "Appropriate duration": {}
+              },
+              "Body language conveys interest": {
+                "Open posture": {},
+                "Nodding": {}
+              }
+            }
+          },
+          "Clear expression prevents misunderstandings.": {
+            "Concise language improves clarity.": {
+              "Avoids unnecessary jargon": {
+                "Audience-appropriate": {},
+                "Plain language": {}
+              },
+              "Direct statements work best": {
+                "Active voice": {},
+                "Simple structure": {}
+              }
+            },
+            "Tone affects message reception.": {
+              "Pitch and pace matter": {
+                "Variation engages": {},
+                "Too fast confuses": {}
+              },
+              "Email tone often misread": {
+                "Lack of cues": {},
+                "Sarcasm hard": {}
+              }
+            }
+          }
+        },
+        "Conflict resolution maintains harmony.": {
+          "Finding common ground is essential.": {
+            "Shared interests facilitate agreement.": {
+              "Identifies win-win solutions": {
+                "Mutual benefits": {},
+                "Creative options": {}
+              },
+              "Builds cooperative atmosphere": {
+                "Team mentality": {},
+                "Reduces opposition": {}
+              }
+            },
+            "Separating people from problems helps.": {
+              "Reduces personal attacks": {
+                "Focus on behavior": {},
+                "Avoids blame": {}
+              },
+              "Focuses on issues not individuals": {
+                "Objective discussion": {},
+                "Solution-oriented": {}
+              }
+            }
+          },
+          "Emotional regulation prevents escalation.": {
+            "Taking breaks cools tensions.": {
+              "Time-out technique effective": {
+                "Physiological reset": {},
+                "Emotional reset": {}
+              },
+              "Physiological arousal decreases": {
+                "Heart rate lowers": {},
+                "Cortisol reduces": {}
+              }
+            },
+            "Perspective-taking reduces hostility.": {
+              "Empathy builds connection": {
+                "Emotional resonance": {},
+                "Validation": {}
+              },
+              "Reduces fundamental attribution error": {
+                "Situational factors": {},
+                "Less personalization": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

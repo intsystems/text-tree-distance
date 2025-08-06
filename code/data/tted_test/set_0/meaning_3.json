@@ -1,0 +1,16 @@
+{
+  "Semantic mapping is unveiled as a groundbreaking approach to organize conceptual relationships for large ontologies.": {
+    "Maply, the first semantic mapping tool, organizes concepts into an interactive network enabling user discovery.": {
+      "The tool links nodes semantically and balances for importance, repetition, and connectivity.": {},
+      "Users can traverse from broad concepts to specific relationships on chosen domains.": {}
+    },
+    "User evaluations exhibit a decisive preference for semantic mapping over traditional taxonomies and alphabetical lists.": {
+      "Semantic mapping was preferred eight times more than taxonomies and four times more than alphabetical lists.": {},
+      "Users understood more connections with semantic mapping in three times as many cases relative to alphabetical lists.": {}
+    },
+    "The thesis formalizes semantic mapping and proposes future work on adaptive linking strategies and expansion.": {
+      "Future development will focus on adaptive selection of linking strategies like causality, hierarchy, or contrast.": {},
+      "The ambition is to scale the tool to more extensive ontologies and explore other knowledge domains.": {}
+    }
+  }
+}

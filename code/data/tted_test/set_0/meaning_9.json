@@ -1,0 +1,16 @@
+{
+  "Conceptual blending is introduced as a creative methodology to synthesize ideas for innovation workshops.": {
+    "Blendr, the first conceptual blending toolkit, merges concepts into a generative space allowing participant exploration.": {
+      "The toolkit combines elements creatively and balances for novelty, usefulness, and compatibility.": {},
+      "Participants can transition from abstract combinations to concrete innovations in chosen areas.": {}
+    },
+    "Workshop results show a strong preference for conceptual blending over traditional brainstorming and mind mapping.": {
+      "Conceptual blending was selected eight times more than brainstorming and four times more than mind mapping.": {},
+      "Teams generated more viable ideas with conceptual blending in three times as many sessions relative to mind mapping.": {}
+    },
+    "The report formalizes conceptual blending and proposes future work on adaptive mixing parameters and application.": {
+      "Future versions will incorporate adaptive selection of mixing parameters like analogy, contradiction, or abstraction.": {},
+      "The goal is to adapt the toolkit to more innovation contexts and test other creative domains.": {}
+    }
+  }
+}

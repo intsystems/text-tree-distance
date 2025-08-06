@@ -1,0 +1,24 @@
+{
+  "Technology is transforming our lives.": {
+    "Artificial Intelligence is revolutionizing industries.": {
+      "Machine learning enables predictive analytics.": {
+        "Deep learning improves image recognition.": {},
+        "Natural language processing understands human language.": {}
+      },
+      "Robotics automates physical tasks.": {
+        "Industrial robots increase manufacturing efficiency.": {},
+        "Service robots assist in daily life.": {}
+      }
+    },
+    "Renewable energy is changing power generation.": {
+      "Solar power harnesses sunlight.": {
+        "Photovoltaic cells convert light to electricity.": {},
+        "Solar thermal systems capture heat.": {}
+      },
+      "Wind energy utilizes air currents.": {
+        "Onshore wind farms are cost-effective.": {},
+        "Offshore wind farms harness stronger winds.": {}
+      }
+    }
+  }
+}

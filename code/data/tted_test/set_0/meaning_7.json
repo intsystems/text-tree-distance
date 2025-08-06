@@ -1,0 +1,16 @@
+{
+  "Cognitive scaffolding is presented as an innovative technique to support learning processes for complex subjects.": {
+    "LearnFrame, the first cognitive scaffolding platform, structures educational content into a progressive hierarchy for student use.": {
+      "The platform sequences materials pedagogically and adjusts for difficulty, repetition, and coherence.": {},
+      "Learners can progress from basic overviews to advanced materials on topics they choose.": {}
+    },
+    "Student evaluations reveal a significant preference for cognitive scaffolding over traditional linear courses and isolated modules.": {
+      "Cognitive scaffolding was favored nine times more than linear courses and five times more than isolated modules.": {},
+      "Students retained more information with cognitive scaffolding in 80% more cases relative to isolated modules.": {}
+    },
+    "The study defines cognitive scaffolding and suggests future work on adaptive learning paths and application.": {
+      "Future research will involve dynamically generating learning paths based on proficiency, interest, or learning style.": {},
+      "The vision is to adapt the platform to more complex subjects and test other educational contexts.": {}
+    }
+  }
+}

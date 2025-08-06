@@ -1,0 +1,16 @@
+{
+  "Hierarchical summarization offers a groundbreaking way to scale summarization for extensive document sets.": {
+    "The Summa system, the first of its kind, arranges summaries into a navigable hierarchical structure.": {
+      "Sentences are clustered by time and refined for relevance, novelty, and flow.": {},
+      "Users can navigate from high-level overviews to in-depth summaries on specific subjects.": {}
+    },
+    "User tests reveal a clear preference for hierarchical summaries compared to flat summaries and timelines.": {
+      "Hierarchical summaries were favored 10:1 over flat summaries and 3:1 over timelines.": {},
+      "In twice as many scenarios, users absorbed more information from hierarchical summaries than timelines.": {}
+    },
+    "The paper defines hierarchical summarization and proposes future research on adaptable organization and scalability.": {
+      "Future efforts may include dynamic organization by entities, places, or events.": {},
+      "The objective is to handle larger document collections and explore additional fields.": {}
+    }
+  }
+}

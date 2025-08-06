@@ -1,0 +1,16 @@
+{
+  "A new method called hierarchical summarization is proposed to handle large document collections in multi-document summarization.": {
+    "Summa, the pioneering hierarchical summarization tool, structures summaries into a logical hierarchy for easy user navigation.": {
+      "It groups sentences by time and balances importance, uniqueness, and clarity.": {},
+      "Users can explore from broad summaries to specific details on desired topics.": {}
+    },
+    "Studies indicate users vastly prefer hierarchical summaries over standard flat summaries and chronological timelines.": {
+      "Hierarchical summaries were chosen ten times more often than flat ones and three times more than timelines.": {},
+      "In double the instances, users gained more knowledge from hierarchical summaries compared to timelines.": {}
+    },
+    "The research defines hierarchical summarization and suggests future work on flexible organization methods and expansion.": {
+      "Next steps involve adapting organization by entities, locations, or events dynamically.": {},
+      "The aim is to expand the system to bigger document sets and new applications.": {}
+    }
+  }
+}

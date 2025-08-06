@@ -1,0 +1,48 @@
+{
+  "Civilizations rise and fall through time.": {
+    "Ancient empires laid foundations.": {
+      "Egypt built monumental architecture.": {
+        "Pyramids served as royal tombs.": {
+          "Great Pyramid of Giza is iconic.": {},
+          "Valley of the Kings held pharaohs.": {}
+        },
+        "Hieroglyphic writing recorded history.": {
+          "Rosetta Stone enabled decipherment.": {},
+          "Scribes held privileged positions.": {}
+        }
+      },
+      "Rome created lasting institutions.": {
+        "Republican government influenced democracies.": {
+          "Senate represented aristocratic interests.": {},
+          "Twelve Tables established legal principles.": {}
+        },
+        "Roman engineering improved infrastructure.": {
+          "Aqueducts delivered clean water.": {},
+          "Road network connected the empire.": {}
+        }
+      }
+    },
+    "Modern nations emerged from revolutions.": {
+      "Industrial Revolution transformed economies.": {
+        "Mechanization increased productivity.": {
+          "Textile industry was first to mechanize.": {},
+          "Steam power enabled factories.": {}
+        },
+        "Urbanization changed social structures.": {
+          "Cities grew around industrial centers.": {},
+          "New social classes emerged.": {}
+        }
+      },
+      "Democratic ideals spread globally.": {
+        "American Revolution rejected monarchy.": {
+          "Declaration asserted natural rights.": {},
+          "Constitutional government was established.": {}
+        },
+        "French Revolution inspired reforms.": {
+          "Liberté, égalité, fraternité became ideals.": {},
+          "Napoleonic Code standardized laws.": {}
+        }
+      }
+    }
+  }
+}

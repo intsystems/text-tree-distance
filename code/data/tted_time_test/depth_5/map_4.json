@@ -1,0 +1,48 @@
+{
+  "Storytelling captivates human imagination.": {
+    "Plot structures organize narratives.": {
+      "Three-act structure provides framework.": {
+        "Setup introduces characters and world.": {
+          "Inciting incident disrupts status quo.": {},
+          "First turning point commits protagonist.": {}
+        },
+        "Confrontation develops conflict.": {
+          "Rising action increases tension.": {},
+          "Midpoint changes context.": {}
+        }
+      },
+      "Hero's journey follows mythic patterns.": {
+        "Ordinary world establishes baseline.": {
+          "Hero starts in familiar setting.": {},
+          "Call to adventure disrupts.": {}
+        },
+        "Special world transforms hero.": {
+          "Trials build skills.": {},
+          "Reward follows crisis.": {}
+        }
+      }
+    },
+    "Character development creates depth.": {
+      "Arcs show transformation.": {
+        "Positive change follows growth.": {
+          "Flaws are overcome.": {},
+          "New perspective is earned.": {}
+        },
+        "Negative change reveals tragedy.": {
+          "Flaws worsen over time.": {},
+          "Opportunities for redemption missed.": {}
+        }
+      },
+      "Motivations drive actions.": {
+        "External goals provide direction.": {
+          "Tangible objectives pursued.": {},
+          "Obstacles create conflict.": {}
+        },
+        "Internal needs shape personality.": {
+          "Psychological wounds healed.": {},
+          "Core beliefs are challenged.": {}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "Understanding human behavior is complex.": {
+    "Cognitive processes shape our perception.": {
+      "Memory stores and retrieves information.": {
+        "Short-term memory has limited capacity.": {
+          "The magic number is 7±2 items.": {
+            "Chunking improves retention.": {
+              "Groups related information together": {},
+              "Phone numbers are chunked examples": {}
+            },
+            "Rehearsal maintains information.": {
+              "Verbal repetition extends duration": {},
+              "Prevents decay of memory traces": {}
+            }
+          },
+          "Working memory manipulates information.": {
+            "It's crucial for problem-solving.": {
+              "Holds intermediate calculations": {},
+              "Integrates new and stored info": {}
+            },
+            "It involves the prefrontal cortex.": {
+              "Executive functions localized here": {},
+              "Damage impairs mental flexibility": {}
+            }
+          }
+        },
+        "Long-term memory has vast storage.": {
+          "Explicit memory stores facts and events.": {
+            "Hippocampus is key for formation.": {
+              "Consolidates short to long-term": {},
+              "Damage causes anterograde amnesia": {}
+            },
+            "Semantic memory holds general knowledge.": {
+              "Network of associated concepts": {},
+              "Independent of personal context": {}
+            }
+          },
+          "Implicit memory includes skills.": {
+            "Procedural memory automates actions.": {
+              "Riding a bike remains intact": {},
+              "Basal ganglia plays key role": {}
+            },
+            "It's resistant to forgetting.": {
+              "Survives most forms of amnesia": {},
+              "Practice makes performance automatic": {}
+            }
+          }
+        }
+      },
+      "Attention filters sensory input.": {
+        "Selective attention focuses on targets.": {
+          "Cocktail party effect isolates voices.": {
+            "Brain filters irrelevant stimuli.": {
+              "Dichotic listening experiments": {},
+              "Early selection theory": {}
+            },
+            "Unexpected stimuli can break through.": {
+              "Own-name effect demonstrates this": {},
+              "High-priority signals get through": {}
+            }
+          },
+          "Inattentional blindness misses obvious things.": {
+            "Focused attention creates blind spots.": {
+              "Gorilla video experiment famous": {},
+              "Cell phone use while driving": {}
+            },
+            "It explains many accidents.": {
+              "Missed stop signs common": {},
+              "Pedestrians sometimes unseen": {}
+            }
+          }
+        },
+        "Divided attention handles multiple tasks.": {
+          "Multitasking reduces efficiency.": {
+            "Task-switching has cognitive costs.": {
+              "Attention residue remains": {},
+              "Time lost in transitions": {}
+            },
+            "Performance degrades with complexity.": {
+              "Dual-task interference measurable": {},
+              "Practice can reduce but not eliminate": {}
+            }
+          },
+          "Automatic processes require less attention.": {
+            "Well-practiced skills become automatic.": {
+              "Driving familiar routes": {},
+              "Touch typing examples": {}
+            },
+            "They free up cognitive resources.": {
+              "Enable higher-level thinking": {},
+              "Parallel processing possible": {}
+            }
+          }
+        }
+      }
+    },
+    "Emotional intelligence affects relationships.": {
+      "Self-awareness recognizes personal emotions.": {
+        "Emotional self-perception is foundational.": {
+          "Identifying feelings prevents overwhelm.": {
+            "Journaling enhances awareness.": {
+              "Creates emotional vocabulary": {},
+              "Identifies patterns over time": {}
+            },
+            "Mindfulness practices help.": {
+              "Non-judgmental observation": {},
+              "Present-moment focus": {}
+            }
+          },
+          "Understanding triggers improves control.": {
+            "Pattern recognition is key.": {
+              "Tracking emotional responses": {},
+              "Identifying common situations": {}
+            },
+            "Childhood experiences shape reactions.": {
+              "Attachment styles influence": {},
+              "Learned coping mechanisms": {}
+            }
+          }
+        },
+        "Accurate self-assessment guides growth.": {
+          "Recognizing strengths builds confidence.": {
+            "It enables effective self-promotion.": {
+              "Realistic in job interviews": {},
+              "Helps in team contributions": {}
+            },
+            "It helps in choosing suitable roles.": {
+              "Matches skills to tasks": {},
+              "Avoids overcommitment": {}
+            }
+          },
+          "Acknowledging limitations prevents overreach.": {
+            "It allows seeking help when needed.": {
+              "Delegation becomes easier": {},
+              "Collaboration improves": {}
+            },
+            "It fosters realistic expectations.": {
+              "Reduces perfectionism": {},
+              "Prevents burnout": {}
+            }
+          }
+        }
+      },
+      "Social skills manage interactions.": {
+        "Verbal communication conveys messages.": {
+          "Active listening builds understanding.": {
+            "Paraphrasing confirms comprehension.": {
+              "Restates in own words": {},
+              "Checks for accuracy": {}
+            },
+            "Nonverbal cues provide context.": {
+              "Eye contact shows engagement": {},
+              "Body language conveys interest": {}
+            }
+          },
+          "Clear expression prevents misunderstandings.": {
+            "Concise language improves clarity.": {
+              "Avoids unnecessary jargon": {},
+              "Direct statements work best": {}
+            },
+            "Tone affects message reception.": {
+              "Pitch and pace matter": {},
+              "Email tone often misread": {}
+            }
+          }
+        },
+        "Conflict resolution maintains harmony.": {
+          "Finding common ground is essential.": {
+            "Shared interests facilitate agreement.": {
+              "Identifies win-win solutions": {},
+              "Builds cooperative atmosphere": {}
+            },
+            "Separating people from problems helps.": {
+              "Reduces personal attacks": {},
+              "Focuses on issues not individuals": {}
+            }
+          },
+          "Emotional regulation prevents escalation.": {
+            "Taking breaks cools tensions.": {
+              "Time-out technique effective": {},
+              "Physiological arousal decreases": {}
+            },
+            "Perspective-taking reduces hostility.": {
+              "Empathy builds connection": {},
+              "Reduces fundamental attribution error": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

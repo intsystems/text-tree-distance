@@ -1,0 +1,96 @@
+{
+  "Civilizations rise and fall through time.": {
+    "Ancient empires laid foundations.": {
+      "Egypt built monumental architecture.": {
+        "Pyramids served as royal tombs.": {
+          "Great Pyramid of Giza is iconic.": {
+            "It aligned with celestial bodies.": {},
+            "Construction methods remain debated.": {}
+          },
+          "Valley of the Kings held pharaohs.": {
+            "Tutankhamun's tomb was found intact.": {},
+            "Hieroglyphs decorated the walls.": {}
+          }
+        },
+        "Hieroglyphic writing recorded history.": {
+          "Rosetta Stone enabled decipherment.": {
+            "It contained parallel texts.": {},
+            "Discovered by Napoleon's troops.": {}
+          },
+          "Scribes held privileged positions.": {
+            "They underwent years of training.": {},
+            "They managed administrative records.": {}
+          }
+        }
+      },
+      "Rome created lasting institutions.": {
+        "Republican government influenced democracies.": {
+          "Senate represented aristocratic interests.": {
+            "Cursus honorum defined political career.": {},
+            "Checks and balances prevented tyranny.": {}
+          },
+          "Twelve Tables established legal principles.": {
+            "Laws were publicly displayed.": {},
+            "They protected plebeian rights.": {}
+          }
+        },
+        "Roman engineering improved infrastructure.": {
+          "Aqueducts delivered clean water.": {
+            "Gravity flow required precise gradients.": {},
+            "Some remain in use today.": {}
+          },
+          "Road network connected the empire.": {
+            "Appian Way was strategically vital.": {},
+            "Standard construction enabled fast travel.": {}
+          }
+        }
+      }
+    },
+    "Modern nations emerged from revolutions.": {
+      "Industrial Revolution transformed economies.": {
+        "Mechanization increased productivity.": {
+          "Textile industry was first to mechanize.": {
+            "Spinning jenny multiplied output.": {},
+            "Power looms replaced hand weaving.": {}
+          },
+          "Steam power enabled factories.": {
+            "Watt's engine improved efficiency.": {},
+            "Coal mining expanded dramatically.": {}
+          }
+        },
+        "Urbanization changed social structures.": {
+          "Cities grew around industrial centers.": {
+            "Manchester exemplified industrial growth.": {},
+            "Overcrowding created slums.": {}
+          },
+          "New social classes emerged.": {
+            "Industrial bourgeoisie gained wealth.": {},
+            "Proletariat sold labor for wages.": {}
+          }
+        }
+      },
+      "Democratic ideals spread globally.": {
+        "American Revolution rejected monarchy.": {
+          "Declaration asserted natural rights.": {
+            "Life, liberty, pursuit of happiness.": {},
+            "Influenced by Enlightenment thinkers.": {}
+          },
+          "Constitutional government was established.": {
+            "Federal system divided powers.": {},
+            "Bill of Rights protected freedoms.": {}
+          }
+        },
+        "French Revolution inspired reforms.": {
+          "Liberté, égalité, fraternité became ideals.": {
+            "Estates General transformed.": {},
+            "Feudal privileges were abolished.": {}
+          },
+          "Napoleonic Code standardized laws.": {
+            "It spread through conquests.": {},
+            "Emphasized clear, accessible laws.": {}
+          }
+        }
+      }
+    }
+  }
+}

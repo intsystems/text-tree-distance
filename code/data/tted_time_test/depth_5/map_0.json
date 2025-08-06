@@ -1,0 +1,48 @@
+{
+  "Technology is transforming our lives.": {
+    "Artificial Intelligence is revolutionizing industries.": {
+      "Machine learning enables predictive analytics.": {
+        "Deep learning improves image recognition.": {
+          "Convolutional neural networks are widely used.": {},
+          "Transfer learning allows model reuse.": {}
+        },
+        "Natural language processing understands human language.": {
+          "Transformer models process sequential data.": {},
+          "Sentiment analysis detects emotional tone.": {}
+        }
+      },
+      "Robotics automates physical tasks.": {
+        "Industrial robots increase manufacturing efficiency.": {
+          "They work with high precision.": {},
+          "Collaborative robots work alongside humans.": {}
+        },
+        "Service robots assist in daily life.": {
+          "Domestic robots handle household chores.": {},
+          "Medical robots assist in surgeries.": {}
+        }
+      }
+    },
+    "Renewable energy is changing power generation.": {
+      "Solar power harnesses sunlight.": {
+        "Photovoltaic cells convert light to electricity.": {
+          "Silicon panels dominate the market.": {},
+          "Thin-film technology offers flexibility.": {}
+        },
+        "Solar thermal systems capture heat.": {
+          "Concentrated solar power uses mirrors.": {},
+          "Water heating systems are common.": {}
+        }
+      },
+      "Wind energy utilizes air currents.": {
+        "Onshore wind farms are cost-effective.": {
+          "They're easier to install and maintain.": {},
+          "They face fewer regulatory hurdles.": {}
+        },
+        "Offshore wind farms harness stronger winds.": {
+          "Floating turbines access deep waters.": {},
+          "They have higher capacity factors.": {}
+        }
+      }
+    }
+  }
+}

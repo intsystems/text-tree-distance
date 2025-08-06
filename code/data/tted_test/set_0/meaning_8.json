@@ -1,0 +1,16 @@
+{
+  "Temporal reasoning is proposed as a new paradigm to analyze event sequences for historical databases.": {
+    "TimeWeb, the initial temporal reasoning engine, organizes events into a causal network supporting researcher investigation.": {
+      "The engine connects occurrences chronologically and weights for significance, correlation, and narrative flow.": {},
+      "Researchers can explore from broad timelines to detailed event chains on specific periods.": {}
+    },
+    "User tests demonstrate a clear advantage for temporal reasoning over static chronologies and isolated event listings.": {
+      "Temporal reasoning was preferred six times more than static chronologies and twice as often as isolated listings.": {},
+      "Researchers identified more patterns with temporal reasoning in 65% more studies compared to isolated listings.": {}
+    },
+    "The article formalizes temporal reasoning and sketches future directions for dynamic weighting schemes and scaling.": {
+      "Later work will focus on dynamic adjustment of weighting schemes like impact, duration, or coincidence.": {},
+      "The aim is to scale the engine to larger historical databases and examine other temporal domains.": {}
+    }
+  }
+}

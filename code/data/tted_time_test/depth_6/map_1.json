@@ -1,0 +1,96 @@
+{
+  "Understanding human behavior is complex.": {
+    "Cognitive processes shape our perception.": {
+      "Memory stores and retrieves information.": {
+        "Short-term memory has limited capacity.": {
+          "The magic number is 7±2 items.": {
+            "Chunking improves retention.": {},
+            "Rehearsal maintains information.": {}
+          },
+          "Working memory manipulates information.": {
+            "It's crucial for problem-solving.": {},
+            "It involves the prefrontal cortex.": {}
+          }
+        },
+        "Long-term memory has vast storage.": {
+          "Explicit memory stores facts and events.": {
+            "Hippocampus is key for formation.": {},
+            "Semantic memory holds general knowledge.": {}
+          },
+          "Implicit memory includes skills.": {
+            "Procedural memory automates actions.": {},
+            "It's resistant to forgetting.": {}
+          }
+        }
+      },
+      "Attention filters sensory input.": {
+        "Selective attention focuses on targets.": {
+          "Cocktail party effect isolates voices.": {
+            "Brain filters irrelevant stimuli.": {},
+            "Unexpected stimuli can break through.": {}
+          },
+          "Inattentional blindness misses obvious things.": {
+            "Focused attention creates blind spots.": {},
+            "It explains many accidents.": {}
+          }
+        },
+        "Divided attention handles multiple tasks.": {
+          "Multitasking reduces efficiency.": {
+            "Task-switching has cognitive costs.": {},
+            "Performance degrades with complexity.": {}
+          },
+          "Automatic processes require less attention.": {
+            "Well-practiced skills become automatic.": {},
+            "They free up cognitive resources.": {}
+          }
+        }
+      }
+    },
+    "Emotional intelligence affects relationships.": {
+      "Self-awareness recognizes personal emotions.": {
+        "Emotional self-perception is foundational.": {
+          "Identifying feelings prevents overwhelm.": {
+            "Journaling enhances awareness.": {},
+            "Mindfulness practices help.": {}
+          },
+          "Understanding triggers improves control.": {
+            "Pattern recognition is key.": {},
+            "Childhood experiences shape reactions.": {}
+          }
+        },
+        "Accurate self-assessment guides growth.": {
+          "Recognizing strengths builds confidence.": {
+            "It enables effective self-promotion.": {},
+            "It helps in choosing suitable roles.": {}
+          },
+          "Acknowledging limitations prevents overreach.": {
+            "It allows seeking help when needed.": {},
+            "It fosters realistic expectations.": {}
+          }
+        }
+      },
+      "Social skills manage interactions.": {
+        "Verbal communication conveys messages.": {
+          "Active listening builds understanding.": {
+            "Paraphrasing confirms comprehension.": {},
+            "Nonverbal cues provide context.": {}
+          },
+          "Clear expression prevents misunderstandings.": {
+            "Concise language improves clarity.": {},
+            "Tone affects message reception.": {}
+          }
+        },
+        "Conflict resolution maintains harmony.": {
+          "Finding common ground is essential.": {
+            "Shared interests facilitate agreement.": {},
+            "Separating people from problems helps.": {}
+          },
+          "Emotional regulation prevents escalation.": {
+            "Taking breaks cools tensions.": {},
+            "Perspective-taking reduces hostility.": {}
+          }
+        }
+      }
+    }
+  }
+}

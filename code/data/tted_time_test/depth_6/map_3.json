@@ -1,0 +1,96 @@
+{
+  "Nature maintains delicate balances.": {
+    "Food webs connect organisms.": {
+      "Producers form the base.": {
+        "Plants convert sunlight to energy.": {
+          "Photosynthesis requires chlorophyll.": {
+            "Light reactions capture energy.": {},
+            "Calvin cycle fixes carbon.": {}
+          },
+          "Primary productivity varies by ecosystem.": {
+            "Tropical forests have high rates.": {},
+            "Deserts have limited production.": {}
+          }
+        },
+        "Algae sustain aquatic systems.": {
+          "Phytoplankton drift with currents.": {
+            "They produce half Earth's oxygen.": {},
+            "Blooms can be harmful.": {}
+          },
+          "Kelp forests create underwater habitats.": {
+            "They grow rapidly in cold waters.": {},
+            "They shelter diverse marine life.": {}
+          }
+        }
+      },
+      "Consumers occupy higher levels.": {
+        "Herbivores eat plants directly.": {
+          "Ruminants have specialized digestion.": {
+            "Multiple stomachs break down cellulose.": {},
+            "Symbiotic bacteria aid digestion.": {}
+          },
+          "Insect herbivores have co-evolved.": {
+            "Some plants developed defenses.": {},
+            "Monarch butterflies store toxins.": {}
+          }
+        },
+        "Carnivores hunt other animals.": {
+          "Apex predators regulate populations.": {
+            "Wolves maintain ecosystem health.": {},
+            "Their removal causes trophic cascades.": {}
+          },
+          "Scavengers clean up carcasses.": {
+            "Vultures have strong stomach acid.": {},
+            "They prevent disease spread.": {}
+          }
+        }
+      }
+    },
+    "Nutrient cycles sustain life.": {
+      "Carbon cycle regulates climate.": {
+        "Photosynthesis removes CO2.": {
+          "Forests act as carbon sinks.": {
+            "Old-growth stores more carbon.": {},
+            "Deforestation releases stored carbon.": {}
+          },
+          "Oceans absorb atmospheric carbon.": {
+            "Phytoplankton incorporate carbon.": {},
+            "Acidification threatens marine life.": {}
+          }
+        },
+        "Respiration releases CO2.": {
+          "All living organisms respire.": {
+            "Metabolism breaks down sugars.": {},
+            "Energy is released as ATP.": {}
+          },
+          "Combustion of fuels accelerates cycle.": {
+            "Fossil fuels release ancient carbon.": {},
+            "This exceeds natural absorption rates.": {}
+          }
+        }
+      },
+      "Nitrogen cycle supports growth.": {
+        "Nitrogen fixation makes N usable.": {
+          "Legumes host rhizobium bacteria.": {
+            "Root nodules contain bacteria.": {},
+            "Crop rotation replenishes soil.": {}
+          },
+          "Industrial fixation produces fertilizer.": {
+            "Haber-Bosch process is energy-intensive.": {},
+            "Overuse causes water pollution.": {}
+          }
+        },
+        "Denitrification returns N to air.": {
+          "Anaerobic bacteria complete cycle.": {
+            "Wetlands are important sites.": {},
+            "They convert nitrates to N2 gas.": {}
+          },
+          "It balances fixation processes.": {
+            "Prevents excessive accumulation.": {},
+            "Maintains atmospheric composition.": {}
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Nature maintains delicate balances.": {
+    "Food webs connect organisms.": {
+      "Producers form the base.": {
+        "Plants convert sunlight to energy.": {
+          "Photosynthesis requires chlorophyll.": {},
+          "Primary productivity varies by ecosystem.": {}
+        },
+        "Algae sustain aquatic systems.": {
+          "Phytoplankton drift with currents.": {},
+          "Kelp forests create underwater habitats.": {}
+        }
+      },
+      "Consumers occupy higher levels.": {
+        "Herbivores eat plants directly.": {
+          "Ruminants have specialized digestion.": {},
+          "Insect herbivores have co-evolved.": {}
+        },
+        "Carnivores hunt other animals.": {
+          "Apex predators regulate populations.": {},
+          "Scavengers clean up carcasses.": {}
+        }
+      }
+    },
+    "Nutrient cycles sustain life.": {
+      "Carbon cycle regulates climate.": {
+        "Photosynthesis removes CO2.": {
+          "Forests act as carbon sinks.": {},
+          "Oceans absorb atmospheric carbon.": {}
+        },
+        "Respiration releases CO2.": {
+          "All living organisms respire.": {},
+          "Combustion of fuels accelerates cycle.": {}
+        }
+      },
+      "Nitrogen cycle supports growth.": {
+        "Nitrogen fixation makes N usable.": {
+          "Legumes host rhizobium bacteria.": {},
+          "Industrial fixation produces fertilizer.": {}
+        },
+        "Denitrification returns N to air.": {
+          "Anaerobic bacteria complete cycle.": {},
+          "It balances fixation processes.": {}
+        }
+      }
+    }
+  }
+}

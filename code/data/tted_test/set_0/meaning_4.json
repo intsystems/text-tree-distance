@@ -1,0 +1,16 @@
+{
+  "Dynamic clustering is introduced as a fresh strategy to manage information grouping for vast knowledge bases.": {
+    "ClusterMind, the initial dynamic clustering application, arranges information into a meaningful taxonomy allowing user navigation.": {
+      "The application sorts items relationally and tunes for significance, redundancy, and harmony.": {},
+      "Users can delve from overarching categories to precise clusters on areas of focus.": {}
+    },
+    "User assessments show a strong partiality for dynamic clustering over fixed groupings and chronological lists.": {
+      "Dynamic clustering was preferred six times more than fixed groupings and three times more than chronological lists.": {},
+      "Users discovered more patterns with dynamic clustering in twice as many tests versus chronological lists.": {}
+    },
+    "The article formalizes dynamic clustering and outlines prospective work on fluid organization rules and extension.": {
+      "Coming projects include fluidly selecting organization rules such as similarity, proximity, or frequency.": {},
+      "The vision is to scale the application to larger knowledge bases and examine other disciplines.": {}
+    }
+  }
+}

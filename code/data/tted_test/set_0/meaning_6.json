@@ -1,0 +1,16 @@
+{
+  "Predictive threading is introduced as an advanced method to structure conversations for massive discussion forums.": {
+    "ThreadAI, the pioneering predictive threading system, organizes posts into a logical sequence allowing user navigation.": {
+      "The system arranges messages contextually and optimizes for relevance, redundancy, and flow.": {},
+      "Users can drill down from general threads to specific conversations on subjects of interest.": {}
+    },
+    "User feedback shows a strong liking for predictive threading over chronological posts and flat comment sections.": {
+      "Predictive threading was selected seven times more than chronological posts and three times more than flat comments.": {},
+      "Users followed discussions better with predictive threading in twice as many instances compared to flat comments.": {}
+    },
+    "The paper formalizes predictive threading and outlines future directions for intelligent sorting criteria and scaling.": {
+      "Next steps include dynamically choosing sorting criteria like sentiment, engagement, or topic shift.": {},
+      "The target is to expand the system to larger forums and investigate other communication platforms.": {}
+    }
+  }
+}
