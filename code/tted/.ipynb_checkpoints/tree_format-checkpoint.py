@@ -1,87 +1,94 @@
-import zss
 import json
+from edist import tree_utils
 
-class Node(zss.Node):
+class TextTree:
     '''
-    Override of the zss.Node class containing a node depth parameter.
-    It can be used to adjust editing costs depending on node depth.
-    '''
-    def __init__(self, label, children=None, depth=0):
-        '''
-        Updated version of Node constructor containing self.depth initialization.
-        '''
-        self.label = label
-        self.children = children or list()
-        self.depth = depth
+    A class for text tree objects we'll be working with.
 
-    @staticmethod
-    def get_depth(node):
-        '''
-        Method that returns the node's depth field.
-        '''
-        return node.depth
-    
+    A tree in the edist library is defined by:
+    1) a node list (a list of strings in our case);
+    2) an adjacency list (a list of lists of integers representing each node's child node indices).
+    '''
+    def __init__(self, nodes, adj):
+        tree_utils.check_tree_structure(adj)
+        self.nodes = nodes
+        self.adj = adj
+
+    def nodes_and_adj(self):
+        return (self.nodes, self.adj)
+
+    def copy(self):
+        return TextTree(self.nodes.copy(), [a.copy() for a in self.adj])
+
     def __str__(self):
-        string = '-' * self.depth + self.label + '\n'
-
-        for child in Node.get_children(self):
-            string += str(child)
-
+        string = tree_utils.tree_to_string(self.nodes, self.adj, indent=True)
         return string
 
+    def add_context(self):
+        '''
+        A function that creates a relabeled tree based on the input one by adding sentences from parent nodes as context to child nodes.
+        Returns new relabeled TextTree object.
+        '''
+        def _add_context_to_node(node_no, context):
+            new_node = context + ' ' + self.nodes[node_no]
+            new_tree.nodes[node_no] = new_node
+            
+            for child_node_no in self.adj[node_no]:
+                _add_context_to_node(child_node_no, new_node)
+            
+        new_tree = self.copy()
+        _add_context_to_node(0, "")
+        
+        return new_tree
+        
 
-def dict_to_node(json_data: dict, depth=0):
+    @staticmethod
+    def from_json(filename):
+        '''
+        Read text tree from JSON file and convert it to a TextTree object.
+    
+        Arguments:
+        filename: string - name of JSON file with text tree to open.
+    
+        Output:
+        tree: TextTree - text tree object.
+        '''
+        with open(filename, 'r') as f:
+            json_data = json.load(f)
+
+        nodes, adj = dict_to_nodes_and_adj(json_data)
+
+        tree = TextTree(nodes, adj)
+        return tree
+
+
+def dict_to_nodes_and_adj(json_data, node_no=0):
     '''
-    Recursively construct tree from dict data.
+    Helper function that constructs a tree in node list + adjacency list format from a dict recursively using DFS.
+
+    Arguments:
+    json_data: dict - tree in dict format.
+
+    Output:
+    nodes: list[string] - list of tree nodes.
+    adj: list[list[int]] - adjacency list.
     '''
     if not json_data:
         return None
-
+    
     # The JSON format has exactly one key-value pair per subtree
     label, children_dict = next(iter(json_data.items()))
 
-    node = Node(label, depth=depth)
+    nodes = [label]
+    adj = [[]]
 
     for child_label, child_subtree in children_dict.items():
-        child_node = dict_to_node({child_label: child_subtree}, depth=depth+1)
-        if child_node:
-            node.addkid(child_node)
-
-    return node
-
-def json_to_node(filename):
-    '''
-    Reads text tree from JSON file to tree of the Node class.
-
-    Arguments:
-    filename: string - name of JSON file with text tree to open.
-
-    Output:
-    tree: Node - root node of the tree.
-    '''
-    with open(filename, 'r') as f:
-        json_data = json.load(f)
-
-    tree = dict_to_node(json_data)
-    return tree
+        child_node_no = node_no + len(nodes) # This is the next unused node index that we assign to the new child node.
+        adj[0].append(child_node_no)
+        child_nodes, child_adj = dict_to_nodes_and_adj({child_label: child_subtree}, child_node_no)
+        
+        if child_nodes:
+            nodes.extend(child_nodes)
+            adj.extend(child_adj)
     
-
-def tree_with_context(input_node: Node):
-    '''
-    A function that creates a relabeled tree based on the input one by adding sentences from parent nodes as context to child nodes.
-
-    Arguments:
-    input_node - root node of the tree to be relabeled.
-
-    Output: 
-    Root node of relabeled tree.
-    '''
-    def add_context(node: Node, context):
-        new_node = Node(context + Node.get_label(node), depth=Node.get_depth(node))
-        
-        for child_node in Node.get_children(node):
-            new_node.addkid(add_context(child_node, Node.get_label(new_node)))
-        
-        return new_node
-
-    return add_context(input_node, "")
+    return nodes, adj

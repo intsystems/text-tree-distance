@@ -1,0 +1,23 @@
+{
+  "Hierarchical summarization tackles the problem of applying multi-document summarization to extensive document sets.": {
+    "It arranges information in a tree-like format, enabling users to progress from broad themes to detailed content.": {
+      "This approach differs from conventional flat summaries that display all information simultaneously.": {},
+      "The structure is built by grouping related material and creating summaries for each group.": {}
+    },
+    "The initial system, Summa, applies this by clustering sentences and optimizing for essential summary characteristics.": {
+      "It clusters sentences with temporal indicators to preserve story continuity.": {},
+      "The system's goals involve emphasizing importance, reducing repetition, and maintaining logical flow.": {}
+    },
+    "A major advantage for users is the capacity to explore deeper levels of the hierarchy for more detailed examination.": {
+      "Users begin with a general summary to understand primary concepts.": {},
+      "They can then move downward to obtain progressively more specific information on particular subjects.": {}
+    },
+    "Research with users shows clear preference for hierarchical summaries compared to other options.": {
+      "Test subjects favored them ten-to-one over flat summaries and three-to-one over chronological presentations.": {},
+      "In evaluations, participants gained more knowledge from hierarchical summaries in double the instances compared to timeline formats.": {}
+    },
+    "The study defines the problem formally and suggests potential research paths for future investigation.": {
+      "Future research includes developing flexible organization frameworks based on entities, places, or occurrences.": {}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Graduated physical therapy programs address the challenge of rehabilitating patients after major injuries.": {
+    "It organizes exercises into difficulty phases, enabling patients to advance from basic mobility to advanced function.": {
+      "This system contrasts with uniform exercise regimens, which apply consistent intensity throughout recovery.": {},
+      "The graduation is established by assessing patient progress and introducing appropriately challenging activities.": {}
+    },
+    "The rehabilitation protocol, RehabScale, implements this by sequencing exercises and optimizing for recovery metrics.": {
+      "It coordinates movement patterns using physiological principles to maintain proper healing progression.": {},
+      "The protocol's priorities include maximizing mobility gains, minimizing re-injury risk, and ensuring sustainable progress.": {}
+    },
+    "A key patient advantage is the ability to progress through recovery stages for complete rehabilitation.": {
+      "Patients start with gentle range-of-motion exercises to reestablish basic movement.": {},
+      "They can then advance to strength-building activities for full functional restoration.": {}
+    },
+    "Clinical studies demonstrate marked preference for graduated therapy over standard rehabilitation.": {
+      "Patients preferred them eight times more than repetitive exercises and three times more than unsupervised recovery.": {},
+      "In outcomes measurement, patients showed better recovery with graduated programs in twice as many cases compared to conventional therapy.": {}
+    },
+    "The protocol formalizes the rehabilitation methodology and suggests future application areas.": {
+      "Future work involves adaptive progression algorithms, such as for different injury types, age groups, or fitness levels.": {}
+    }
+  }
+}

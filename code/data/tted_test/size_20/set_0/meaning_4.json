@@ -1,0 +1,33 @@
+{
+  "Distributed hydroponic systems address the challenge of scaling urban agriculture to dense city environments.": {
+    "They arrange growing spaces into vertical tiers, allowing residents to cultivate from herbs to root vegetables.": {
+      "This approach contrasts with traditional horizontal farming, which requires extensive land area.": {},
+      "The tiered structure is created by stacking nutrient-delivery systems and lighting for each level.": {
+        "This stacking can be repeated, building cultivation capacity at multiple heights.": {}
+      }
+    },
+    "The initial design, VerdeStack, implements this by layering planters and optimizing for key growth factors.": {
+      "It groups plants using spectral signatures to maintain optimal light conditions.": {},
+      "The system's objectives include maximizing yield, minimizing water usage, and ensuring consistent growth.": {
+        "Precision sensors monitor root zone conditions to determine nutrient adjustments.": {}
+      }
+    },
+    "A key resident benefit is the ability to move between tiers for targeted cultivation.": {
+      "Residents begin with upper tiers for quick-growing leafy greens and herbs.": {},
+      "They can then access lower tiers to grow longer-cycle vegetables and fruiting plants.": {
+        "Modular components allow for seasonal reconfiguration of growing spaces.": {}
+      }
+    },
+    "Urban trials demonstrate strong preference for tiered systems over alternatives.": {
+      "Participants preferred them eight times more than rooftop plots and four times more than window boxes.": {},
+      "In tests, residents harvested more food from tiered systems in three times as many cases compared to community gardens.": {
+        "The studies also measured improved crop diversity over growing seasons.": {}
+      }
+    },
+    "The research formalizes the urban agriculture framework and outlines future development pathways.": {
+      "Future work involves adaptive growing protocols, such as by crop type, season, or microclimate.": {
+        "Another direction is modifying tier arrangements based on building orientation or resident consumption patterns.": {}
+      }
+    }
+  }
+}

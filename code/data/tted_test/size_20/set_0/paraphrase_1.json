@@ -1,0 +1,33 @@
+{
+  "The hierarchical approach to summarization solves the issue of adapting multi-document summarization for large corpora.": {
+    "It structures data into a hierarchical format, permitting users to move from overview to specifics.": {
+      "This technique opposes standard single-level summaries that show complete information in one view.": {},
+      "The hierarchy is constructed by categorizing associated content and producing summaries for each category.": {
+        "This method may be recursive, developing summaries across different specificity levels.": {}
+      }
+    },
+    "The pioneering Summa system executes this by categorizing sentences and enhancing crucial summary attributes.": {
+      "It classifies sentences employing temporal markers to sustain chronological progression.": {},
+      "The system targets increasing significance, decreasing duplication, and preserving consistency.": {
+        "Modern algorithms examine meaning-based similarities to establish connections between sentences.": {}
+      }
+    },
+    "An important user advantage is the opportunity to investigate hierarchy levels for comprehensive examination.": {
+      "Users commence with an overarching summary to capture fundamental ideas.": {},
+      "They can subsequently navigate lower levels to reach more exhaustive data on focused areas.": {
+        "Responsive interfaces support adjustable revealing and concealing of content segments.": {}
+      }
+    },
+    "User experiments indicate definite liking for hierarchical summaries versus other forms.": {
+      "Study participants chose them ten-to-one over flat summaries and three-to-one over sequential displays.": {},
+      "During assessments, users acquired more understanding from hierarchical summaries in two times as many scenarios relative to chronological arrangements.": {
+        "The experiments additionally recorded enhanced knowledge preservation over extended durations.": {}
+      }
+    },
+    "The publication characterizes the challenge and proposes upcoming study paths for this domain.": {
+      "Future developments include flexible structuring frameworks, such as categorization by individuals, sites, or happenings.": {
+        "An additional avenue is customizing hierarchies immediately based on user searches or focus areas.": {}
+      }
+    }
+  }
+}

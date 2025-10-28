@@ -1,0 +1,33 @@
+{
+  "Hierarchical summarization resolves the difficulty of extending multi-document summarization to substantial collections.": {
+    "It formats knowledge into a layered configuration, letting users advance from comprehensive to precise material.": {
+      "This strategy contrasts with typical linear summaries that offer all details concurrently.": {},
+      "The layered arrangement is produced by collecting connected information and formulating summaries for each collection.": {
+        "This operation can be repeated, forming summaries at numerous detail tiers.": {}
+      }
+    },
+    "The original implementation, Summa, employs this technique by grouping sentences and refining fundamental summary properties.": {
+      "It assembles sentences applying sequential signals to keep narrative continuity.": {},
+      "The system's aims comprise emphasizing relevance, limiting repetitiveness, and securing cohesiveness.": {
+        "Contemporary algorithms analyze conceptual likeness to ascertain sentence linkages.": {}
+      }
+    },
+    "A significant benefit for users is the capability to examine hierarchy tiers for more in-depth analysis.": {
+      "Users initiate with a comprehensive outline to comprehend central concepts.": {},
+      "They can then explore lower tiers to obtain more specialized knowledge on selected topics.": {
+        "Engaging interfaces permit changing exposure and hiding of content areas.": {}
+      }
+    },
+    "Human trials reveal pronounced preference for hierarchical summaries compared to other choices.": {
+      "Volunteers selected them tenfold more than flat summaries and thrice more than sequential layouts.": {},
+      "In experiments, users understood more from hierarchical summaries in twice the number of situations versus time-based formats.": {
+        "The trials also measured superior information recall across longer timeframes.": {}
+      }
+    },
+    "The article defines the issue systematically and indicates prospective research trajectories for this field.": {
+      "Later work concerns variable arrangement schemes, for example by characters, locations, or incidents.": {
+        "Another potential development is adjusting hierarchies promptly according to user inquiries or concerns.": {}
+      }
+    }
+  }
+}

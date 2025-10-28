@@ -1,0 +1,768 @@
+{
+  "Nature maintains delicate balances.": {
+    "Food webs connect organisms.": {
+      "Producers form the base.": {
+        "Plants convert sunlight to energy.": {
+          "Photosynthesis requires chlorophyll.": {
+            "Light reactions capture energy.": {
+              "Photosystems absorb photons": {
+                "P680 and P700 differ in wavelength": {
+                  "P680 absorbs red light at 680nm": {},
+                  "P700 absorbs far-red light at 700nm": {}
+                },
+                "Antenna complexes funnel energy": {
+                  "Light-harvesting complexes (LHC)": {},
+                  "Resonance energy transfer": {}
+                }
+              },
+              "ATP and NADPH produced": {
+                "Chemiosmosis drives ATP synthase": {
+                  "Proton gradient across thylakoid membrane": {},
+                  "Rotational catalysis mechanism": {}
+                },
+                "Electrons reduce NADP+": {
+                  "Ferredoxin provides electrons": {},
+                  "NADP+ reductase enzyme catalyzes": {}
+                }
+              }
+            },
+            "Calvin cycle fixes carbon.": {
+              "RuBisCO enzyme critical": {
+                "Most abundant enzyme on Earth": {
+                  "Up to 50% leaf protein": {},
+                  "Evolutionary ancient": {}
+                },
+                "Catalyzes carboxylation": {
+                  "CO2 added to RuBP": {},
+                  "Forms unstable intermediate": {}
+                }
+              },
+              "G3P sugar produced": {
+                "Used for glucose synthesis": {
+                  "Two G3P make one glucose": {},
+                  "Energy-intensive process": {}
+                },
+                "Some regenerates RuBP": {
+                  "Complex metabolic pathway": {},
+                  "Requires ATP investment": {}
+                }
+              }
+            }
+          },
+          "Primary productivity varies by ecosystem.": {
+            "Tropical forests have high rates.": {
+              "Year-round growing season": {
+                "Consistent day length": {
+                  "Near equator variation minimal": {},
+                  "Twelve-hour days": {}
+                },
+                "Stable temperatures": {
+                  "Warm throughout year": {},
+                  "Optimal enzyme function": {}
+                }
+              },
+              "Abundant rainfall": {
+                "High humidity maintained": {
+                  "Transpiration-precipitation cycle": {},
+                  "Cloud forest mist": {}
+                },
+                "Transpiration contributes": {
+                  "Stomata remain open": {},
+                  "Cooling effect": {}
+                }
+              }
+            },
+            "Deserts have limited production.": {
+              "Water scarcity limiting": {
+                "Stomata close to conserve": {
+                  "Reduced gas exchange": {},
+                  "CAM photosynthesis adaptation": {}
+                },
+                "Deep root systems adapt": {
+                  "Taproots reach groundwater": {},
+                  "Phreatophytes specialized": {}
+                }
+              },
+              "CAM photosynthesis adaptation": {
+                "Nighttime CO2 uptake": {
+                  "Stomata open at night": {},
+                  "Malic acid accumulation": {}
+                },
+                "Malic acid storage": {
+                  "Vacuoles store acid": {},
+                  "Daytime decarboxylation": {}
+                }
+              }
+            }
+          }
+        },
+        "Algae sustain aquatic systems.": {
+          "Phytoplankton drift with currents.": {
+            "They produce half Earth's oxygen.": {
+              "Diatoms significant contributors": {
+                "Silica frustules protect": {
+                  "Intricate glass shells": {},
+                  "Defense against grazers": {}
+                },
+                "Spring blooms common": {
+                  "Nutrient upwelling triggers": {},
+                  "Temperature increase": {}
+                }
+              },
+              "Prochlorococcus abundant": {
+                "Smallest photosynthetic organism": {
+                  "0.6 micrometers diameter": {},
+                  "Minimal genome size": {}
+                },
+                "Dominates oligotrophic waters": {
+                  "Low nutrient adaptation": {},
+                  "High surface area ratio": {}
+                }
+              }
+            },
+            "Blooms can be harmful.": {
+              "Red tides toxic": {
+                "Karenia brevis causes": {
+                  "Brevetoxin production": {},
+                  "Neurotoxic shellfish poisoning": {}
+                },
+                "Neurotoxins accumulate": {
+                  "Filter feeders concentrate": {},
+                  "Food chain amplification": {}
+                }
+              },
+              "Eutrophication causes": {
+                "Nutrient runoff feeds": {
+                  "Agricultural fertilizers": {},
+                  "Wastewater discharge": {}
+                },
+                "Dead zones result": {
+                  "Hypoxic conditions": {},
+                  "Marine life suffocates": {}
+                }
+              }
+            }
+          },
+          "Kelp forests create underwater habitats.": {
+            "They grow rapidly in cold waters.": {
+              "Giant kelp fastest growth": {
+                "Up to 2 feet daily": {
+                  "Optimal conditions required": {},
+                  "Light and nutrients": {}
+                },
+                "Hollow stipes buoyant": {
+                  "Gas-filled pneumatocysts": {},
+                  "Reach sunlight surface": {}
+                }
+              },
+              "Require nutrient upwelling": {
+                "Cold water holds more nutrients": {
+                  "Solubility inverse temperature": {},
+                  "Density differences": {}
+                },
+                "Seasonal growth patterns": {
+                  "Spring bloom maximum": {},
+                  "Winter dormancy": {}
+                }
+              }
+            },
+            "They shelter diverse marine life.": {
+              "Nursery for juvenile fish": {
+                "Provides protection": {
+                  "Complex three-dimensional structure": {},
+                  "Predator avoidance": {}
+                },
+                "Abundant food sources": {
+                  "Epiphytic organisms": {},
+                  "Detritus accumulation": {}
+                }
+              },
+              "Sea otters maintain balance": {
+                "Keystone species role": {
+                  "Disproportionate ecosystem impact": {},
+                  "Trophic cascade initiator": {}
+                },
+                "Urchin population control": {
+                  "Prevent overgrazing": {},
+                  "Kelp forest health": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      "Consumers occupy higher levels.": {
+        "Herbivores eat plants directly.": {
+          "Ruminants have specialized digestion.": {
+            "Multiple stomachs break down cellulose.": {
+              "Rumen fermentation chamber": {
+                "Anaerobic environment": {
+                  "Oxygen-free conditions": {},
+                  "Methanogens present": {}
+                },
+                "Volatile fatty acids produced": {
+                  "Acetate, propionate, butyrate": {},
+                  "Main energy source": {}
+                }
+              },
+              "Microbial symbionts essential": {
+                "Bacteria break bonds": {
+                  "Cellulase enzymes secreted": {},
+                  "Hydrogen byproduct": {}
+                },
+                "Protozoa assist": {
+                  "Engulf bacteria": {},
+                  "Contribute enzymes": {}
+                }
+              }
+            },
+            "Symbiotic bacteria aid digestion.": {
+              "Produce cellulase enzymes": {
+                "Humans lack these": {
+                  "Cannot digest cellulose": {},
+                  "Dietary fiber importance": {}
+                },
+                "Hydrolyze β-1,4 linkages": {
+                  "Glycosidic bonds cleaved": {},
+                  "Glucose monomers released": {}
+                }
+              },
+              "Vitamin synthesis occurs": {
+                "B vitamins produced": {
+                  "B12 cobalamin": {},
+                  "Biotin and folate": {}
+                },
+                "Vitamin K generated": {
+                  "Blood clotting essential": {},
+                  "Menadione form": {}
+                }
+              }
+            }
+          },
+          "Insect herbivores have co-evolved.": {
+            "Some plants developed defenses.": {
+              "Tannins deter feeding": {
+                "Bind to proteins": {
+                  "Digestive enzymes inhibited": {},
+                  "Reduced nutrient absorption": {}
+                },
+                "Reduce digestibility": {
+                  "Astringent taste": {},
+                  "Growth suppression": {}
+                }
+              },
+              "Thorns physical barriers": {
+                "Structural adaptations": {
+                  "Modified branches": {},
+                  "Epidermal outgrowths": {}
+                },
+                "Some contain toxins": {
+                  "Chemical defense combination": {},
+                  "Irritating compounds": {}
+                }
+              }
+            },
+            "Monarch butterflies store toxins.": {
+              "Milkweed-derived cardenolides": {
+                "Heart poisons": {
+                  "Na+/K+ ATPase inhibition": {},
+                  "Cardiac glycosides": {}
+                },
+                "Target sodium pumps": {
+                  "Cell membrane disruption": {},
+                  "Electrolyte imbalance": {}
+                }
+              },
+              "Warning coloration results": {
+                "Aposematism strategy": {
+                  "Visual signal to predators": {},
+                  "Learned aversion": {}
+                },
+                "Predators learn avoidance": {
+                  "Unpleasant experience": {},
+                  "Genetic memory": {}
+                }
+              }
+            }
+          }
+        },
+        "Carnivores hunt other animals.": {
+          "Apex predators regulate populations.": {
+            "Wolves maintain ecosystem health.": {
+              "Trophic cascades documented": {
+                "Willow recovery observed": {
+                  "Stream bank stabilization": {},
+                  "Beaver habitat restored": {}
+                },
+                "Beaver return facilitated": {
+                  "Dam building resumes": {},
+                  "Wetland creation": {}
+                }
+              },
+              "Yellowstone reintroduction effects": {
+                "Riverbank stabilization": {
+                  "Reduced erosion": {},
+                  "Channel narrowing": {}
+                },
+                "Biodiversity increased": {
+                  "Songbird return": {},
+                  "Riparian health": {}
+                }
+              }
+            },
+            "Their removal causes trophic cascades.": {
+              "Mesopredator release occurs": {
+                "Coyote numbers increase": {
+                  "Competitor release": {},
+                  "Range expansion": {}
+                },
+                "Small mammals decline": {
+                  "Increased predation pressure": {},
+                  "Rodent populations crash": {}
+                }
+              },
+              "Vegetation patterns change": {
+                "Overgrazing results": {
+                  "Ungulate populations explode": {},
+                  "Sapling consumption": {}
+                },
+                "Succession altered": {
+                  "Forest regeneration prevented": {},
+                  "Grassland expansion": {}
+                }
+              }
+            }
+          },
+          "Scavengers clean up carcasses.": {
+            "Vultures have strong stomach acid.": {
+              "Kills pathogens in carrion": {
+                "Botulism toxin neutralized": {
+                  "pH denatures proteins": {},
+                  "Neurotoxin destroyed": {}
+                },
+                "Anthrax destroyed": {
+                  "Bacillus anthracis killed": {},
+                  "Spores digested": {}
+                }
+              },
+              "pH near 1.0": {
+                "Corrosive enough for bones": {
+                  "Calcium dissolution": {},
+                  "Complete nutrient extraction": {}
+                },
+                "Specialized lining protects": {
+                  "Mucous barrier": {},
+                  "Rapid cell turnover": {}
+                }
+              }
+            },
+            "They prevent disease spread.": {
+              "Rapid consumption key": {
+                "Clean bones within hours": {
+                  "Efficient disposal": {},
+                  "40 vultures: 100kg/day": {}
+                },
+                "Efficiency prevents buildup": {
+                  "Carcass removal speed": {},
+                  "Pathogen multiplication prevented": {}
+                }
+              },
+              "Anthrax neutralization": {
+                "Spores digested": {
+                  "Gastric acid destruction": {},
+                  "No environmental persistence": {}
+                },
+                "Community health benefit": {
+                  "Livestock protection": {},
+                  "Human disease reduction": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Nutrient cycles sustain life.": {
+      "Carbon cycle regulates climate.": {
+        "Photosynthesis removes CO2.": {
+          "Forests act as carbon sinks.": {
+            "Old-growth stores more carbon.": {
+              "Centuries of accumulation": {
+                "Multiple canopy layers": {
+                  "Vertical stratification": {},
+                  "Light capture efficiency": {}
+                },
+                "Large woody debris": {
+                  "Fallen logs accumulate": {},
+                  "Slow decomposition": {}
+                }
+              },
+              "Soils hold significant amounts": {
+                "Mycorrhizal networks": {
+                  "Fungal hyphae extend": {},
+                  "Carbon transfer": {}
+                },
+                "Humus decomposition": {
+                  "Stable organic compounds": {},
+                  "Century-scale persistence": {}
+                }
+              }
+            },
+            "Deforestation releases stored carbon.": {
+              "Burning immediate release": {
+                "Pyrogenic carbon forms": {
+                  "Charcoal residues": {},
+                  "Black carbon": {}
+                },
+                "Black carbon aerosols": {
+                  "Atmospheric warming": {},
+                  "Ice albedo effect": {}
+                }
+              },
+              "Decomposition continues": {
+                "Microbial activity": {
+                  "Temperature increase accelerates": {},
+                  "Moisture changes": {}
+                },
+                "Reduced sequestration": {
+                  "No new growth": {},
+                  "Soil carbon loss": {}
+                }
+              }
+            }
+          },
+          "Oceans absorb atmospheric carbon.": {
+            "Phytoplankton incorporate carbon.": {
+              "Biological pump mechanism": {
+                "Vertical migration": {
+                  "Diel vertical movement": {},
+                  "Carbon transport depth": {}
+                },
+                "Marine snow falls": {
+                  "Organic particle descent": {},
+                  "Fecal pellets contribute": {}
+                }
+              },
+              "Carbonate shells form": {
+                "Coccolithophores contribute": {
+                  "Calcite plates": {},
+                  "White cliffs Dover": {}
+                },
+                "Foraminifera tests": {
+                  "Calcium carbonate chambers": {},
+                  "Sedimentary records": {}
+                }
+              }
+            },
+            "Acidification threatens marine life.": {
+              "Lower pH dissolves shells": {
+                "Aragonite saturation": {
+                  "Mineral stability": {},
+                  "Omega value critical": {}
+                },
+                "Pteropods vulnerable": {
+                  "Thin shells dissolve": {},
+                  "Antarctic species threatened": {}
+                }
+              },
+              "Coral bleaching increases": {
+                "Symbiont algae expelled": {
+                  "Heat stress response": {},
+                  "Loss of color": {}
+                },
+                "Calcification impaired": {
+                  "Skeleton formation slows": {},
+                  "Reef structure weakens": {}
+                }
+              }
+            }
+          }
+        },
+        "Respiration releases CO2.": {
+          "All living organisms respire.": {
+            "Metabolism breaks down sugars.": {
+              "Mitochondria power cells": {
+                "Double membrane structure": {
+                  "Inner membrane folded": {},
+                  "Cristae surface area": {}
+                },
+                "Endosymbiotic origin": {
+                  "Alpha-proteobacterium ancestor": {},
+                  "Own circular DNA": {}
+                }
+              },
+              "Krebs cycle central": {
+                "Acetyl-CoA enters": {
+                  "Pyruvate decarboxylation": {},
+                  "Fatty acid beta-oxidation": {}
+                },
+                "NADH/FADH2 generated": {
+                  "Electron carriers reduced": {},
+                  "High energy electrons": {}
+                }
+              }
+            },
+            "Energy is released as ATP.": {
+              "Oxidative phosphorylation": {
+                "Proton gradient drives": {
+                  "Intermembrane space accumulation": {},
+                  "Chemiosmotic potential": {}
+                },
+                "Chemiosmotic coupling": {
+                  "Peter Mitchell hypothesis": {},
+                  "Nobel Prize 1978": {}
+                }
+              },
+              "Electron transport chain": {
+                "Cytochrome complexes": {
+                  "Complex III function": {},
+                  "Q-cycle mechanism": {}
+                },
+                "Oxygen final acceptor": {
+                  "Water formation": {},
+                  "Four-electron reduction": {}
+                }
+              }
+            }
+          },
+          "Combustion of fuels accelerates cycle.": {
+            "Fossil fuels release ancient carbon.": {
+              "Millions of years stored": {
+                "Carboniferous period": {
+                  "Coal formation peak": {},
+                  "300 million years ago": {}
+                },
+                "Anaerobic conditions": {
+                  "No decomposition": {},
+                  "Organic matter preserved": {}
+                }
+              },
+              "Net addition to atmosphere": {
+                "Keeling curve documents": {
+                  "Mauna Loa measurements": {},
+                  "Annual oscillation": {}
+                },
+                "Isotopic signature distinct": {
+                  "δ13C depletion": {},
+                  "Fossil fuel fingerprint": {}
+                }
+              }
+            },
+            "This exceeds natural absorption rates.": {
+              "Deforestation compounds issue": {
+                "Reduced carbon sinks": {
+                  "Fewer trees photosynthesize": {},
+                  "Soil carbon released": {}
+                },
+                "Albedo changes": {
+                  "Surface reflectivity alters": {},
+                  "Regional warming": {}
+                }
+              },
+              "Ocean saturation concerns": {
+                "Buffering capacity limited": {
+                  "Carbonate system equilibrium": {},
+                  "Revelle factor": {}
+                },
+                "Thermohaline circulation": {
+                  "Deep water formation": {},
+                  "Carbon transport depth": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      "Nitrogen cycle supports growth.": {
+        "Nitrogen fixation makes N usable.": {
+          "Legumes host rhizobium bacteria.": {
+            "Root nodules contain bacteria.": {
+              "Mutualistic relationship": {
+                "Plant provides carbohydrates": {
+                  "Photosynthate allocation": {},
+                  "Sucrose transported": {}
+                },
+                "Bacteria provide ammonia": {
+                  "Nitrogenase enzyme": {},
+                  "ATP-intensive process": {}
+                }
+              },
+              "Oxygen control critical": {
+                "Leghemoglobin regulates": {
+                  "Oxygen binding protein": {},
+                  "Pink nodule color": {}
+                },
+                "Low oxygen microenvironment": {
+                  "Nitrogenase protection": {},
+                  "Oxidative damage prevention": {}
+                }
+              }
+            },
+            "Crop rotation replenishes soil.": {
+              "Traditional farming practice": {
+                "Ancient origins": {
+                  "Roman agriculture": {},
+                  "Three-field system": {}
+                },
+                "Soil fertility maintained": {
+                  "Nitrogen levels sustained": {},
+                  "Erosion reduced": {}
+                }
+              },
+              "Clover common choice": {
+                "White clover used": {
+                  "Perennial growth": {},
+                  "Ground cover benefits": {}
+                },
+                "Green manure benefits": {
+                  "Plowed under soil": {},
+                  "Organic matter addition": {}
+                }
+              }
+            }
+          },
+          "Industrial fixation produces fertilizer.": {
+            "Haber-Bosch process is energy-intensive.": {
+              "High pressure required": {
+                "200-300 atmospheres": {
+                  "Steel reactor vessels": {},
+                  "Safety critical": {}
+                },
+                "Iron catalysts used": {
+                  "Magnetite base": {},
+                  "Promoters added": {}
+                }
+              },
+              "Natural gas feedstock": {
+                "Hydrogen source": {
+                  "Methane reforming": {},
+                  "Steam-methane reaction": {}
+                },
+                "Methane reformed": {
+                  "CH4 + H2O → CO + 3H2": {},
+                  "Water-gas shift": {}
+                }
+              }
+            },
+            "Overuse causes water pollution.": {
+              "Algal blooms result": {
+                "Nitrogen limiting nutrient": {
+                  "Phosphorus co-limiting": {},
+                  "Redfield ratio": {}
+                },
+                "Eutrophication accelerates": {
+                  "Rapid algal growth": {},
+                  "Oxygen depletion": {}
+                }
+              },
+              "Dead zones form": {
+                "Hypoxic conditions": {
+                  "<2 mg/L oxygen": {},
+                  "Marine life dies": {}
+                },
+                "Chesapeake Bay affected": {
+                  "Agricultural runoff": {},
+                  "Seasonal hypoxia": {}
+                }
+              }
+            }
+          }
+        },
+        "Denitrification returns N to air.": {
+          "Anaerobic bacteria complete cycle.": {
+            "Wetlands are important sites.": {
+              "Low oxygen conditions": {
+                "Waterlogged soils": {
+                  "Pore spaces filled": {},
+                  "Microsites anoxic": {}
+                },
+                "Redox potential drops": {
+                  "Electron acceptor scarcity": {},
+                  "Nitrate alternative": {}
+                }
+              },
+              "Nitrate conversion": {
+                "Dissimilatory reduction": {
+                  "Energy conservation": {},
+                  "Nitrate respiration": {}
+                },
+                "Energy gained": {
+                  "ATP production": {},
+                  "Growth yield": {}
+                }
+              }
+            },
+            "They convert nitrates to N2 gas.": {
+              "Pseudomonas bacteria key": {
+                "Facultative anaerobes": {
+                  "Aerobic respiration preferred": {},
+                  "Anaerobic switch": {}
+                },
+                "Respiratory pathway": {
+                  "Membrane-bound enzymes": {},
+                  "Proton motive force": {}
+                }
+              },
+              "Stepwise reduction process": {
+                "NO2 to NO to N2O": {
+                  "Nitrite reductase": {},
+                  "Nitric oxide reductase": {}
+                },
+                "Nitrous oxide intermediate": {
+                  "Greenhouse gas": {},
+                  "Ozone depletion": {}
+                }
+              }
+            }
+          },
+          "It balances fixation processes.": {
+            "Prevents excessive accumulation.": {
+              "Nitrate toxicity avoided": {
+                "Methemoglobinemia prevented": {
+                  "Blue baby syndrome": {},
+                  "Infant health protected": {}
+                },
+                "Aquatic life protected": {
+                  "Fish toxicity reduced": {},
+                  "Biodiversity maintained": {}
+                }
+              },
+              "Ecosystem equilibrium": {
+                "Nitrogen inputs matched": {
+                  "Natural fixation rate": {},
+                  "Anthropogenic inputs": {}
+                },
+                "Outputs balanced": {
+                  "Denitrification capacity": {},
+                  "Sustainable levels": {}
+                }
+              }
+            },
+            "Maintains atmospheric composition.": {
+              "Nitrogen majority component": {
+                "78% of atmosphere": {
+                  "Dinitrogen gas N2": {},
+                  "Triple bond strength": {}
+                },
+                "Inert gas": {
+                  "Unreactive molecular form": {},
+                  "Biological unavailable": {}
+                }
+              },
+              "Stable gas cycle": {
+                "Long residence time": {
+                  "Millions of years": {},
+                  "Slow turnover": {}
+                },
+                "Global balance": {
+                  "Marine and terrestrial": {},
+                  "Climate regulation": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

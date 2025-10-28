@@ -1,0 +1,23 @@
+{
+  "Hierarchical summarization resolves the difficulty of expanding multi-document summarization to substantial collections.": {
+    "It forms information into a layered configuration, letting users traverse from abstract to concrete material.": {
+      "This strategy contrasts with typical uniform summaries that deliver all content in a single presentation.": {},
+      "The layered structure is produced by categorizing associated content and formulating summaries for each category.": {}
+    },
+    "The original implementation, Summa, achieves this by categorizing sentences and refining for fundamental summary properties.": {
+      "It classifies sentences employing chronological markers to sustain storyline progression.": {},
+      "The method's targets comprise optimizing significance, limiting repetitiveness, and securing cohesiveness.": {}
+    },
+    "A principal user benefit is the opportunity to delve into the hierarchy for more extensive investigation.": {
+      "Users initiate with an overarching summary to comprehend central topics.": {},
+      "They may then navigate deeper to achieve more elaborated data on selected themes.": {}
+    },
+    "User research reveals pronounced preference for hierarchical summaries compared to competing formats.": {
+      "Respondents selected them ten-fold more than flat summaries and triple more than time-ordered layouts.": {},
+      "In assessments, users understood more from hierarchical summaries in twice as many situations versus chronological arrangements.": {}
+    },
+    "The paper defines the issue systematically and indicates prospective research trajectories for the discipline.": {
+      "Subsequent efforts include versatile structuring rules, categorized by items, sites, or happenings.": {}
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Healthcare is being transformed by artificial intelligence through dramatic changes in diagnosis, therapy design, and medication development.": {
+    "Artificial intelligence for medical scans can identify irregularities with precision exceeding human specialists in particular fields.": {
+      "Deep neural networks detect beginning-stage cancers in breast scans with 94% success rate.": {},
+      "AI procedures lower incorrect positives in pulmonary cancer tests by 11% relative to standard techniques.": {}
+    },
+    "NLP technology facilitates automatic processing of patient charts and healthcare documents.": {
+      "AI tools can derive relevant clinical information from unformatted medical text in mere seconds.": {},
+      "Document analysis software finds potential medication conflicts across numerous research documents concurrently.": {}
+    },
+    "Forecast analysis supports recognition of vulnerable patients and enhances medical facility resource management.": {
+      "Machine learning predictors estimate readmission likelihood with 85% precision 30 days beforehand.": {},
+      "Intelligent scheduling platforms decrease ER delay times by 25% in experimental projects.": {}
+    }
+  }
+}

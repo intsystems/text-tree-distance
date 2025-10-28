@@ -1,0 +1,33 @@
+{
+"Space exploration technologies are advancing orbital infrastructure, propulsion, and planetary science.": {
+"Reusable launch systems dramatically reduce access costs to Earth orbit.": {
+"Vertical landing boosters complete 15 flights with only minor refurbishment between missions.": {},
+"Aerospace planes achieve single-stage-to-orbit capability using combined cycle engines.": {},
+"Recoverable fairings decrease launch costs by $6 million per mission through reuse.": {}
+},
+"In-situ resource utilization enables sustainable presence beyond Earth.": {
+"Lunar regolith processing extracts oxygen with 90% efficiency using molten salt electrolysis.": {},
+"Martian atmosphere compression produces methane propellant using biological catalysts.": {},
+"Asteroid water ice mining provides radiation shielding and life support for deep space missions.": {},
+"3D printing with planetary soil constructs habitats capable of withstanding extreme temperature swings.": {}
+},
+"Advanced propulsion systems shorten transit times for interplanetary travel.": {
+"Nuclear thermal rockets double payload capacity to Mars compared to chemical propulsion.": {},
+"Solar electric propulsion systems achieve specific impulse ten times higher than hydrazine.": {},
+"Beamed-energy launch systems reduce rocket mass by 60% through ground-based powering.": {},
+"Alcubierre drive research demonstrates microscopic spacetime warping in laboratory conditions.": {},
+"Antimatter containment advances enable storage of positrons for months without significant loss.": {}
+},
+"Orbital manufacturing exploits microgravity for unique material production.": {
+"Fiber optic cables drawn in zero-gravity exhibit 100x fewer defects than terrestrial versions.": {},
+"Organoid printing in space produces more complex tissue structures without sedimentation.": {},
+"Perfectly spherical ball bearings manufactured in orbit reduce friction by 40% in precision instruments.": {}
+},
+"Autonomous robotics conduct complex operations in hazardous space environments.": {
+"Swarm satellites self-assemble into large aperture telescopes for exoplanet imaging.": {},
+"Robotic arms perform delicate satellite refueling operations with millimeter precision.": {},
+"Autonomous rovers navigate treacherous lunar terrain at 5 km/h using stereo vision.": {},
+"AI mission planners dynamically reroute spacecraft around solar radiation storms.": {}
+}
+}
+}

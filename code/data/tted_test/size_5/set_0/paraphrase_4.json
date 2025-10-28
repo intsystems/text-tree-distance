@@ -1,0 +1,9 @@
+{
+  "An innovative hierarchical summarization approach is introduced to scale multi-document summarization for sizable document assemblies.": {
+    "Summa, as the first hierarchical summarization solution, constructs summaries in a logical hierarchy that allows user navigation.": {
+      "It clusters sentences based on time and optimizes for key points, reduced repetition, and fluidity.": {},
+      "Users can drill downward from general summaries to thorough summaries on topics they select.": {}
+    },
+    "User evaluations indicate pronounced preference for hierarchical summaries over conventional flat summaries and chronological arrangements.": {}
+  }
+}

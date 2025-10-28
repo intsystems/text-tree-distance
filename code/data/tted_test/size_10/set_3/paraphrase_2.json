@@ -1,0 +1,16 @@
+{
+  "The healthcare sector is undergoing a revolution through AI's impact on diagnostic processes, treatment preparation, and drug research.": {
+    "AI-powered imaging systems can spot medical abnormalities more precisely than human experts in specific applications.": {
+      "Deep learning technology pinpoints early cancer formations in breast X-rays with 94% reliability.": {},
+      "Artificial intelligence approaches diminish mistaken positives in pulmonary screening by 11% over older methods.": {}
+    },
+    "Text analysis capabilities permit automatic interpretation of doctor's notes and scientific texts.": {
+      "AI solutions can retrieve key patient details from free-form medical narratives in moments.": {},
+      "Research scanning systems detect possible adverse drug reactions from thousands of academic papers at the same time.": {}
+    },
+    "Forecasting tools aid in detecting vulnerable patients and refining healthcare institution resource planning.": {
+      "ML prediction systems anticipate hospital readmission chances with 85% accuracy four weeks early.": {},
+      "AI-based appointment systems shorten urgent care waiting periods by 25% in test deployments.": {}
+    }
+  }
+}

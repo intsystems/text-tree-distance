@@ -1,0 +1,3 @@
+Here is a sentence-based mind map in the JSON format:
+
+Generate a new mind map in the same format on the same topic but adding exactly 5 more nodes to the map. Output only the new mind map in the correct format.

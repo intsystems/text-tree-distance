@@ -1,0 +1,9 @@
+{
+  "Hierarchical summarization emerges as an innovative method for scaling multi-document summarization to handle large document corpora.": {
+    "As the first system of its kind, Summa arranges summaries into an organized hierarchy that supports user navigation.": {
+      "Sentences are clustered chronologically while optimizing for significance, duplication reduction, and consistency.": {},
+      "Navigation enables users to move from general summaries to in-depth coverage of specific topics.": {}
+    },
+    "Evaluation with users reveals strong favoring of hierarchical summaries over standard flat summaries and timeline formats.": {}
+  }
+}

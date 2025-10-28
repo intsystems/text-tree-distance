@@ -1,4 +1,4 @@
-from .tree_format import Node
+from .tree_format import TextTree
 import rouge
 import math
 
@@ -66,26 +66,26 @@ def compare_method(pairs1, pairs2):
     return sim
 
 
-def tree_to_pairs(tree: Node):
+def tree_to_pairs(tree: TextTree, node_no=0):
     '''
-    Function that transforms Node tree to array of parent-child pairs.
+    Function that transforms TextTree to array of parent-child pairs in breadth-first order.
 
     Arguments:
-    tree: Node - input tree of the Node class.
+    tree: TextTree - input tree in TextTree format.
 
     Output:
-    pairs: list[list[string]] - list of pairs of parent-child node labels in width-first order.
+    pairs: list[list[string]] - list of pairs of parent-child node labels in breadth-first order.
     '''
     pairs = []
-    for child in Node.get_children(tree):
-        pairs.append([Node.get_label(tree), Node.get_label(child)])
-    for child in Node.get_children(tree):
-        pairs += tree_to_pairs(child)
+    for child_no in tree.adj[node_no]:
+        pairs.append([tree.nodes[node_no], tree.nodes[child_no]])
+    for child_no in tree.adj[node_no]:
+        pairs += tree_to_pairs(tree, child_no)
 
     return pairs
 
 
-def baseline_similarity(tree_a: Node, tree_b: Node):
+def baseline_similarity(tree_a: TextTree, tree_b: TextTree):
     '''
     Function that scores tree similarity using the baseline method. 
 
@@ -102,7 +102,7 @@ def baseline_similarity(tree_a: Node, tree_b: Node):
     return sim
 
 
-def baseline_distance(tree_a: Node, tree_b: Node):
+def baseline_distance(tree_a: TextTree, tree_b: TextTree):
     '''
     Function that scores tree distance using the baseline method. 
     To make a distance metric out of a similarity measure, we convert it into a pseudometric using the kernel method.

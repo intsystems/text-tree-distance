@@ -1,0 +1,22 @@
+{
+  "Artificial intelligence in healthcare is revolutionizing diagnostics, treatment planning, and drug discovery.": {
+    "Medical imaging AI can detect abnormalities with accuracy surpassing human radiologists in specific domains.": {
+      "Deep learning models identify early-stage tumors in mammograms with 94% accuracy.": {},
+      "AI algorithms reduce false positives in lung cancer screening by 11% compared to traditional methods.": {}
+    },
+    "Natural language processing enables automated analysis of clinical notes and medical literature.": {
+      "AI systems can extract relevant patient information from unstructured clinical text in seconds.": {},
+      "Literature mining tools identify potential drug interactions from thousands of research papers simultaneously.": {},
+      "Sentiment analysis of patient feedback helps hospitals improve quality of care and patient satisfaction.": {}
+    },
+    "Predictive analytics help identify at-risk patients and optimize hospital resource allocation.": {
+      "Machine learning models predict patient readmission risks with 85% accuracy 30 days in advance.": {},
+      "AI-driven scheduling systems reduce emergency department wait times by 25% in pilot programs.": {},
+      "Real-time monitoring systems predict sepsis onset 12 hours before clinical manifestation.": {}
+    },
+    "AI accelerates drug discovery by predicting molecular interactions and optimizing clinical trials.": {
+      "Generative AI designs novel drug-like molecules for previously undruggable targets.": {},
+      "Machine learning models identify ideal patient cohorts for clinical trials, increasing success rates.": {}
+    }
+  }
+}

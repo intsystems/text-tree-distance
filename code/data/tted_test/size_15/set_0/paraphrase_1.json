@@ -1,0 +1,23 @@
+{
+  "The hierarchical approach to summarization solves the issue of adapting multi-document summarization to large corpora.": {
+    "It structures data into a hierarchical arrangement, permitting users to move from overview to specifics.": {
+      "This technique opposes standard single-level summaries that show complete information in one view.": {},
+      "The hierarchy forms through grouping connected information and producing summaries for each grouping.": {}
+    },
+    "The pioneering Summa system realizes this through sentence clustering and optimization of core summary attributes.": {
+      "It organizes sentences using time-related signals to keep narrative continuity.": {},
+      "The framework aims to enhance relevance, decrease duplication, and guarantee consistency.": {}
+    },
+    "An important user advantage is the capability to investigate lower hierarchy levels for more thorough analysis.": {
+      "Users commence with a top-level summary to capture key ideas.": {},
+      "They can subsequently drill down to reach more granular details on focused areas.": {}
+    },
+    "User experiments indicate substantial preference for hierarchical summaries versus other methods.": {
+      "Study participants chose them ten times more frequently than flat summaries and three times more than sequential displays.": {},
+      "During testing, users acquired more information from hierarchical summaries in two times as many scenarios relative to timeline versions.": {}
+    },
+    "The research formalizes the challenge and proposes upcoming investigation avenues for this domain.": {
+      "Later work encompasses adaptive organization schemes, organized by elements such as entities, geographic points, or incidents.": {}
+    }
+  }
+}

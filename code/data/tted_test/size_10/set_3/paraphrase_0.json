@@ -1,0 +1,16 @@
+{
+  "AI is transforming healthcare by revolutionizing diagnostics, treatment strategies, and pharmaceutical development.": {
+    "AI in medical imaging detects anomalies more accurately than human radiologists in certain specialized areas.": {
+      "Deep learning systems recognize early tumors in mammograms with 94% precision.": {},
+      "AI methods decrease false positives in lung cancer screenings by 11% versus conventional approaches.": {}
+    },
+    "Natural language processing allows for computerized examination of medical records and scientific publications.": {
+      "Artificial intelligence can pull pertinent patient data from unstructured clinical documents within seconds.": {},
+      "Text mining applications discover possible drug interactions by analyzing thousands of scientific articles at once.": {}
+    },
+    "Predictive modeling assists in spotting high-risk patients and improving hospital resource distribution.": {
+      "ML algorithms forecast patient readmission probabilities with 85% accuracy a month prior.": {},
+      "AI-powered scheduling solutions cut emergency room waiting periods by 25% in trial implementations.": {}
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Ocean conservation technologies are protecting marine ecosystems, monitoring pollution, and restoring habitats.": {
+    "Autonomous underwater vehicles map oceanographic data across previously inaccessible regions.": {
+      "Glider fleets monitor ocean acidification across 2,000 km transects for 6 months continuously.": {},
+      "Swarm robotics track harmful algal blooms in three dimensions using coordinated sensor arrays.": {},
+      "Deep-sea drones withstand 6,000 meter pressures while collecting biological samples.": {}
+    },
+    "Acoustic monitoring networks track marine mammal movements and human impacts.": {
+      "Hydrophone arrays detect illegal fishing activity within 50 km radius through engine sound analysis.": {},
+      "Real-time whale detection systems alert shipping lanes to prevent vessel strikes.": {},
+      "Passive acoustic biodiversity assessments estimate species richness without visual observation.": {},
+      "Coral reef health monitoring through soundscape analysis detects bleaching events weeks earlier.": {}
+    },
+    "Satellite surveillance combats illegal fishing and monitors marine protected areas.": {
+      "Synthetic aperture radar identifies dark vessels attempting to avoid AIS tracking.": {},
+      "Machine learning algorithms recognize suspicious loitering patterns associated with transshipment.": {},
+      "Infrared sensors detect nutrient plumes from aquaculture operations exceeding permitted levels.": {},
+      "Vessel behavior prediction models intercept illegal fishing before protected area entry.": {},
+      "Automatic identification system gap analysis flags potential tampering in real-time.": {}
+    },
+    "Coral restoration techniques accelerate reef recovery from bleaching events.": {
+      "Micro-fragmentation grows corals 25 times faster than natural growth rates.": {},
+      "Assisted evolution develops heat-resistant coral strains through selective breeding.": {},
+      "Electro-mineral accretion structures provide substrate for natural coral settlement.": {}
+    },
+    "Plastic pollution interception systems capture waste before ocean entry.": {
+      "Riverine barrier nets collect 85% of floating debris while maintaining fish passage.": {},
+      "Automated sorting facilities separate recyclable plastics using hyperspectral imaging.": {},
+      "Biodegradable polymer alternatives completely break down in marine environments within 6 months.": {},
+      "Nanobubble aeration systems enhance natural microbial degradation of submerged plastic particles.": {}
+    }
+  }
+}

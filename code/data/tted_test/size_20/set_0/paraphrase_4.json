@@ -1,0 +1,33 @@
+{
+  "Hierarchical summarization overcomes the obstacle of scaling multi-document summarization for massive document assemblies.": {
+    "It coordinates information into a multi-level architecture, helping users transition from abstract to concrete information.": {
+      "This system varies from customary single-layer summaries that expose all data at one time.": {},
+      "The multi-level system is established by compiling associated documents and developing summaries for each compilation.": {
+        "This process can be repeated, generating summaries at diverse depth levels.": {}
+      }
+    },
+    "The breakthrough Summa system realizes this by organizing sentences and improving important summary metrics.": {
+      "It sorts sentences employing time-based references to uphold narrative sequence.": {},
+      "The system's targets involve boosting key points, cutting down redundancy, and maintaining logical structure.": {
+        "Innovative computations judge meaningful connections to define sentence associations.": {}
+      }
+    },
+    "A central user gain is the option to probe hierarchy layers for thorough scrutiny.": {
+      "Users launch with a broad outline to apprehend principal messages.": {},
+      "They can then traverse deeper layers to access more minute particulars on individual themes.": {
+        "Interactive platforms allow variable unfolding and closing of information segments.": {}
+      }
+    },
+    "Participant studies display overwhelming preference for hierarchical summaries versus other types.": {
+      "Individuals preferred them by tenfold over flat summaries and threefold over time-based presentations.": {},
+      "In comparisons, users educated themselves more from hierarchical summaries in double the instances relative to chronological formats.": {
+        "The studies additionally confirmed improved data maintenance over prolonged intervals.": {}
+      }
+    },
+    "The manuscript formalizes the challenge and sketches subsequent inquiry routes for this specialty.": {
+      "Future endeavors include pliable structuring concepts, for instance by entities, geographic points, or occurrences.": {
+        "Another prospect is transforming hierarchies on-the-fly depending on user prompts or curiosities.": {}
+      }
+    }
+  }
+}

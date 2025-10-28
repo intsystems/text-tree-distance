@@ -1,0 +1,22 @@
+{
+  "Space exploration technologies are advancing orbital operations, planetary research, and commercial access.": {
+    "Reusable rocket systems dramatically reduce launch costs and increase mission frequency.": {
+      "Vertical landing boosters can be refurbished and relaunched within 30 days of recovery.": {},
+      "Modular rocket designs cut manufacturing expenses by 65% compared to expendable vehicles.": {}
+    },
+    "Satellite constellations provide global internet coverage and Earth observation capabilities.": {
+      "Low-orbit satellite networks deliver high-speed broadband to remote areas with 25ms latency.": {},
+      "Hyperspectral imaging monitors agricultural productivity across entire continents daily.": {},
+      "Maritime tracking systems identify illegal fishing activities in international waters in real-time.": {}
+    },
+    "Planetary rovers conduct autonomous scientific research on extraterrestrial surfaces.": {
+      "AI navigation systems allow rovers to traverse complex terrain without human intervention.": {},
+      "Laser spectrometers analyze rock composition within minutes of collection.": {},
+      "Sample caching mechanisms preserve geological specimens for eventual return missions.": {}
+    },
+    "Space tourism infrastructure is making orbital experiences accessible to private citizens.": {
+      "Suborbital flight systems provide minutes of weightlessness for scientific experiments.": {},
+      "Space hotel designs incorporate artificial gravity through rotational habitats.": {}
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Integrated pest management combines biological, cultural, and chemical tools to control pests sustainably.": {
+    "Beneficial insect habitats around field borders provide natural pest control services.": {},
+    "Crop rotation disrupts pest life cycles and reduces dependence on chemical pesticides.": {},
+    "Trap crops lure pests away from main crops, minimizing the need for broad-spectrum pesticides.": {},
+    "Sustainable agriculture practices are essential for addressing food security and environmental conservation.": {
+      "Regenerative farming techniques focus on rebuilding soil organic matter and restoring degraded soil biodiversity.": {
+        "No-till farming reduces soil erosion by 75% compared to conventional tillage methods.": {},
+        "Cover cropping between growing seasons improves water retention and suppresses weeds naturally.": {},
+        "Agroforestry integrates trees into farming systems to enhance biodiversity and carbon sequestration.": {}
+      },
+      "Precision agriculture leverages technology to optimize resource use and minimize environmental impact.": {
+        "GPS-guided equipment applies fertilizers and pesticides only where needed, reducing usage by 30%.": {},
+        "Soil moisture sensors and drone imagery enable targeted irrigation, conserving water resources.": {},
+        "Variable rate technology adjusts planting density and inputs based on real-time field data.": {}
+      },
+      "Water conservation strategies are critical for sustainable production in water-scarce regions.": {
+        "Drip irrigation systems deliver water directly to plant roots, reducing evaporation losses.": {}
+      }
+    }
+  }
+}

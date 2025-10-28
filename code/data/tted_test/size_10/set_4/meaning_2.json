@@ -1,0 +1,16 @@
+{
+  "Urban mobility solutions are vital for reducing congestion and improving air quality.": {
+    "Electric vehicle infrastructure focuses on expanding charging networks and upgrading power capacity.": {
+      "Fast-charging stations decrease refueling time by 70% compared to standard charging options.": {},
+      "Battery swapping facilities between major routes eliminate range anxiety and support long-distance travel.": {}
+    },
+    "Smart traffic management uses IoT technology to optimize flow and reduce commute times.": {
+      "AI-controlled signal coordination prioritizes public transport, reducing bus delays by 35%.": {},
+      "Parking availability sensors and mobile apps guide drivers to vacant spots, minimizing search traffic.": {}
+    },
+    "Integrated transport systems combine public, shared, and active mobility options seamlessly.": {
+      "Bike-sharing stations near transit hubs provide first-last mile connectivity solutions.": {},
+      "Fare integration across different transport modes encourages multimodal journeys and reduces private car use.": {}
+    }
+  }
+}

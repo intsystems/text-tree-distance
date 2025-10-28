@@ -1,0 +1,9 @@
+{
+  "Hierarchical summarization is proposed as an original technique to make multi-document summarization feasible for extensive document groups.": {
+    "Summa, the initial hierarchical summarization platform, organizes summary content into a coherent hierarchical structure for user navigation.": {
+      "The system temporally clusters sentences and refines for relevance, minimal repetition, and connectedness.": {},
+      "Users can progressively delve from overarching summaries to focused detailed summaries on subjects of choice.": {}
+    },
+    "User testing shows definite preference for hierarchical summaries compared to ordinary flat summaries and time-ordered presentations.": {}
+  }
+}

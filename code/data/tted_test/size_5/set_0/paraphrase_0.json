@@ -1,0 +1,9 @@
+{
+  "A novel hierarchical summarization method is presented to enable scalable multi-document summarization across extensive document sets.": {
+    "Summa, the pioneering hierarchical summarization framework, structures summaries into a logical hierarchy that enables user exploration.": {
+      "The framework groups sentences by time and optimizes for importance, non-redundancy, and logical flow.": {},
+      "Users can navigate from broad summaries to specific detailed summaries on chosen subjects.": {}
+    },
+    "User studies demonstrate clear preference for hierarchical summaries compared to conventional flat summaries and chronological displays.": {}
+  }
+}

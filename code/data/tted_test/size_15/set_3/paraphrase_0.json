@@ -1,0 +1,22 @@
+{
+  "AI is transforming healthcare by revolutionizing diagnosis, therapy design, and pharmaceutical development.": {
+    "AI in medical imaging identifies anomalies more accurately than human radiologists in certain specialized areas.": {
+      "Deep learning systems detect early tumors in breast scans with 94% precision.": {},
+      "AI methods decrease false positive rates in pulmonary cancer screening by 11% over conventional approaches.": {}
+    },
+    "Natural language processing allows computerized examination of medical records and scientific publications.": {
+      "AI tools can retrieve pertinent patient data from unorganized clinical documents within seconds.": {},
+      "Text mining applications discover possible medication interactions across thousands of scientific articles at once.": {},
+      "Emotion analysis of patient comments assists medical facilities in enhancing care quality and patient experience.": {}
+    },
+    "Forecasting analytics assist in recognizing vulnerable patients and improving hospital resource distribution.": {
+      "ML algorithms forecast patient rehospitalization probability with 85% precision one month prior.": {},
+      "AI-powered scheduling solutions cut emergency room waiting periods by 25% in test implementations.": {},
+      "Continuous surveillance systems anticipate sepsis development 12 hours before symptoms appear.": {}
+    },
+    "Artificial intelligence speeds up pharmaceutical research by forecasting molecular behavior and refining clinical studies.": {
+      "Generative artificial intelligence creates new drug-capable compounds for formerly untreated biological targets.": {},
+      "Machine learning systems select perfect patient groups for clinical research, improving trial effectiveness.": {}
+    }
+  }
+}

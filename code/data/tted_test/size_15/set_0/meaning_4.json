@@ -1,0 +1,23 @@
+{
+  "Distributed hydroponic farming addresses the challenge of urban food production in limited spaces.": {
+    "It arranges growing stations in a vertical network, enabling residents to cultivate from seed to harvest.": {
+      "This approach contrasts with traditional horizontal farming, which requires extensive land areas.": {},
+      "The vertical structure is created by stacking planting modules and automating irrigation for each tier.": {}
+    },
+    "The initial prototype, VerdeStack, implements this by arranging grow beds and optimizing for plant health metrics.": {
+      "It sequences planting using seasonal patterns to maintain continuous yield.": {},
+      "The system's goals include maximizing sunlight exposure, minimizing water usage, and ensuring nutrient balance.": {}
+    },
+    "A key resident advantage is the ability to move up through the vertical garden for sequential harvesting.": {
+      "Residents begin with leafy greens at the accessible lower levels for quick results.": {},
+      "They can then progress upward to cultivate longer-growing fruits and specialized herbs.": {}
+    },
+    "Community surveys show overwhelming preference for vertical farming over conventional alternatives.": {
+      "Residents preferred them eight times more than community plots and five times more than window boxes.": {},
+      "In trials, households produced more food with vertical systems in three times as many cases compared to patio gardens.": {}
+    },
+    "The research formalizes the urban agriculture framework and suggests future development pathways.": {
+      "Future work involves adaptive growing protocols, such as for different climates, building types, or crop varieties.": {}
+    }
+  }
+}
