@@ -24,6 +24,9 @@ class TextTree:
         string = tree_utils.tree_to_string(self.nodes, self.adj, indent=True)
         return string
 
+    def __len__(self):
+        return len(self.nodes)
+
     def add_context(self):
         '''
         A function that creates a relabeled tree based on the input one by adding sentences from parent nodes as context to child nodes.
@@ -53,7 +56,7 @@ class TextTree:
         Output:
         tree: TextTree - text tree object.
         '''
-        with open(filename, 'r') as f:
+        with open(filename, 'r', encoding="utf8") as f:
             json_data = json.load(f)
 
         nodes, adj = dict_to_nodes_and_adj(json_data)
