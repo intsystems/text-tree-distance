@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: If you use this software, please cite both the article from preferred-citation and the software itself.
+authors:
+  - family-names: Sobolevsky
+    given-names: Fedor
+  - family-names: Vorontsov
+    given-names: Konstantin
+title: 'Text Tree Edit Distance: A Language Model-Based Metric for Text Hierarchies'
+version: 1.0.0
+doi: 10.1109/APEIE66761.2025.11289395
+date-released: '2025-01-20'
+preferred-citation:
+  authors:
+    - family-names: Sobolevsky
+      given-names: Fedor
+    - family-names: Vorontsov
+      given-names: Konstantin
+  title: 'Text Tree Edit Distance: A Language Model-Based Metric for Text Hierarchies'
+  doi: 10.1109/APEIE66761.2025.11289395
+  type: conference-paper
+  pages: 1-5
+  year: '2025'
+  collection-title: 2025 IEEE XVII International Scientific and Technical Conference on Actual Problems of Electronic Instrument Engineering (APEIE)
+  conference: {}
+  publisher: {}

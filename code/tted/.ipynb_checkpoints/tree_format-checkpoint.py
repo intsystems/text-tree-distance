@@ -13,6 +13,16 @@ class TextTree:
         tree_utils.check_tree_structure(adj)
         self.nodes = nodes
         self.adj = adj
+        self.depths = TextTree.get_depths(nodes, adj)
+
+    @staticmethod
+    def get_depths(nodes, adj):
+        depths = {0: 1}
+        for i in range(len(nodes)):
+            for child in adj[i]:
+                depths[child] = depths[i] + 1
+
+        return depths
 
     def nodes_and_adj(self):
         return (self.nodes, self.adj)
@@ -26,6 +36,23 @@ class TextTree:
 
     def __len__(self):
         return len(self.nodes)
+
+    def at(self, depth: int):
+        '''
+        Returns new TextTree that is a copy of self trimmed to the specified depth.
+        '''
+        if depth < 1:
+            raise TypeError("The depth parameter must be a positive integer.")
+        
+        new_nodes = [self.nodes[i] for i in range(len(self)) if self.depths[i] <= depth]        
+        new_adj = [self.adj[i] if self.depths[i] < depth else [] for i in range(len(self)) if self.depths[i] <= depth]
+        
+        selected_nodes = [i for i in range(len(self)) if self.depths[i] <= depth]
+        new_node_mapping = {selected_nodes[i]: i for i in range(len(selected_nodes))}
+        for i in range(len(new_adj)):
+            new_adj[i] = [new_node_mapping[node] for node in new_adj[i]]
+
+        return TextTree(new_nodes, new_adj)
 
     def add_context(self):
         '''
@@ -59,39 +86,39 @@ class TextTree:
         with open(filename, 'r', encoding="utf8") as f:
             json_data = json.load(f)
 
-        nodes, adj = dict_to_nodes_and_adj(json_data)
+        nodes, adj = TextTree.dict_to_nodes_and_adj(json_data)
 
         tree = TextTree(nodes, adj)
         return tree
 
-
-def dict_to_nodes_and_adj(json_data, node_no=0):
-    '''
-    Helper function that constructs a tree in node list + adjacency list format from a dict recursively using DFS.
-
-    Arguments:
-    json_data: dict - tree in dict format.
-
-    Output:
-    nodes: list[string] - list of tree nodes.
-    adj: list[list[int]] - adjacency list.
-    '''
-    if not json_data:
-        return None
+    @staticmethod
+    def dict_to_nodes_and_adj(json_data, node_no=0):
+        '''
+        Helper function that constructs a tree in node list + adjacency list format from a dict recursively using DFS.
     
-    # The JSON format has exactly one key-value pair per subtree
-    label, children_dict = next(iter(json_data.items()))
-
-    nodes = [label]
-    adj = [[]]
-
-    for child_label, child_subtree in children_dict.items():
-        child_node_no = node_no + len(nodes) # This is the next unused node index that we assign to the new child node.
-        adj[0].append(child_node_no)
-        child_nodes, child_adj = dict_to_nodes_and_adj({child_label: child_subtree}, child_node_no)
+        Arguments:
+        json_data: dict - tree in dict format.
+    
+        Output:
+        nodes: list[string] - list of tree nodes.
+        adj: list[list[int]] - adjacency list.
+        '''
+        if not json_data:
+            return None
         
-        if child_nodes:
-            nodes.extend(child_nodes)
-            adj.extend(child_adj)
+        # The JSON format has exactly one key-value pair per subtree
+        label, children_dict = next(iter(json_data.items()))
     
-    return nodes, adj
+        nodes = [label]
+        adj = [[]]
+    
+        for child_label, child_subtree in children_dict.items():
+            child_node_no = node_no + len(nodes) # This is the next unused node index that we assign to the new child node.
+            adj[0].append(child_node_no)
+            child_nodes, child_adj = TextTree.dict_to_nodes_and_adj({child_label: child_subtree}, child_node_no)
+            
+            if child_nodes:
+                nodes.extend(child_nodes)
+                adj.extend(child_adj)
+        
+        return nodes, adj

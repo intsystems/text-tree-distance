@@ -8,11 +8,9 @@ def precompute_dists(tree_a: TextTree, tree_b: TextTree, encoder, embedding_dist
     A helper function to precompute semantic distance between pairs of sentences in two text trees.
 
     Arguments:
-    tree_a, tree_b - two trees of the zss type TextTree;
-    similarity_func - a function of two string arguments which computes sentence distance.
-    encoder - a language model's callable encoder that takes string input and returns embeddings from the model
-        Note that the encoder should be capable of processing arrays of strings.
-    embedding_dist - an embedding similarity measure that takes two embeddings as input and returns a non-negative distance value. 
+    tree_a, tree_b: TextTree - two text tree instances;
+    encoder - function that encodes text to vectors;
+    embedding_dist - function used to measure distance between text embeddings;
 
     Output:
     sentence_dists: dict(dict(string: float)) - a 2-D dict containing scores for each pair of sentences from tree_a and tree_b.
@@ -37,21 +35,37 @@ def precompute_dists(tree_a: TextTree, tree_b: TextTree, encoder, embedding_dist
     return sentence_dists, sentence_weights
 
 
-def text_tree_distance(tree_1: TextTree, tree_2: TextTree, encoder, embedding_dist, unordered=True, use_context=False):
+def tted(
+    tree_1: TextTree, 
+    tree_2: TextTree, 
+    encoder, 
+    embedding_dist, 
+    normalize: bool = False, 
+    unordered: bool = True, 
+    use_context: bool = False, 
+    at: int | None = None
+):
     '''
     The function that calculates tree edit distance between to trees given a similarity function for sentence pairs.
     
     Arguments:
-    tree_a, tree_b - two trees of the zss type TextTree to be compared;
-    similarity_func - a function of two string arguments which computes sentence distance;
-    depth_factor - a hyperparameter that scales sentence similarity based on the node's depth;
-    use_context - a flag indicating whether parents of the given node will be used as context for sentence comparison.
+    tree_1, tree_2: TextTree - two text tree instances to be compared;
+    encoder - function that encodes text to vectors;
+    embedding_dist - function used to measure distance between text embeddings;
+    normalize: bool - flag indicating whether the distance is normalized;
+    unordered: bool - flag indicating whether the trees are considered unordered;
+    use_context: bool - a flag indicating whether parents of the given node will be used as context for sentence comparison;
+    at: int | None - If not None, the trees are trimmed to the specified depth (TTED@k).
 
     Output:
     dist: float - the calculated tree edit distance between tree_a and tree_b
     '''
     tree_a = tree_1.copy()
     tree_b = tree_2.copy()
+
+    if at is not None:
+        tree_a = tree_a.at(at)
+        tree_b = tree_b.at(at)
     
     if use_context:
         tree_a = tree_a.add_context()
@@ -71,5 +85,43 @@ def text_tree_distance(tree_1: TextTree, tree_2: TextTree, encoder, embedding_di
         dist = uted(*tree_a.nodes_and_adj(), *tree_b.nodes_and_adj(), update_cost)
     else:
         dist = ted(*tree_a.nodes_and_adj(), *tree_b.nodes_and_adj(), update_cost)
+
+    if normalize:
+        dist = 2 * dist / (float(max(sentence_weights.values())) * (len(tree_a) + len(tree_b)) + dist)
           
     return dist
+
+def avg_tted(
+    tree_1: TextTree, 
+    tree_2: TextTree, 
+    encoder, 
+    embedding_dist, 
+    unordered: bool = True, 
+    use_context: bool = False,
+    at: int | None = None,
+):
+    '''
+    Function that calculates AvgTTED - average normalized TTED@k for all depths k (or up to a certain depth if specified).
+    
+    Arguments:
+    tree_1, tree_2: TextTree - two text tree instances to be compared;
+    encoder - function that encodes text to vectors;
+    embedding_dist - function used to measure distance between text embeddings;
+    unordered: bool - flag indicating whether the trees are considered unordered;
+    use_context: bool - a flag indicating whether parents of the given node will be used as context for sentence comparison;
+    at: int | None - If not None, AvgTTED@k will be computed (up to the specified depth).
+
+    Output:
+    dist: float - the calculated tree edit distance between tree_1 and tree_2
+    '''
+    max_depth = max((max(tree_1.depths.values()), max(tree_2.depths.values())))
+    if at is not None:
+        max_depth = min(at, max_depth)
+
+    dists = []
+    for depth in range(1, max_depth+1):
+        dists.append(
+            tted(tree_1, tree_2, encoder, embedding_dist, normalize=True, unordered=unordered, use_context=use_context, at=depth)
+        )
+
+    return sum(dists) / len(dists)
